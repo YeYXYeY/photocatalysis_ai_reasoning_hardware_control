@@ -27,7 +27,6 @@ In a typical run, the control hub reads a task workbook, splits the workflow int
 ├─ SYSTEM_ARCHITECTURE.md
 ├─ SETUP.md
 ├─ REPRODUCE.md
-├─ CITATION.cff
 ├─ LICENSE
 ├─ requirements.txt
 ├─ pyproject.toml
