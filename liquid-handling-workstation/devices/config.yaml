@@ -1,0 +1,69 @@
+# RS485 settings for grippers, pumps, and relays
+RS485:
+  port: "COM5" # Serial port
+  baudrate: 115200 # Baud rate
+  bytesize: 8 # Data bits
+  parity: "N" # Parity mode
+  stopbits: 1 # Stop bits
+  timeout: 0.1 # Read timeout in seconds
+  write_timeout: 0.1 # Write timeout in seconds
+
+
+
+
+
+# Motion controller settings
+controller:
+  ipaddr: "192.0.2.71" # Example controller IP address
+  op: # Axis-to-output-port mapping
+    0: 12
+    1: 13
+    2: 14
+  axis: # Axis indices
+    x: 0
+    y: 1
+    z: 2
+  axislist: [0, 1, 2] # Axes participating in multi-axis interpolation
+  # Axis parameters [atype, invert_step, units, accel, decel, speed]
+  param_x: [4, 8, 100, 1000, 1000, 1500] # X-axis motion profile
+  param_y: [4, 8, 100, 1000, 1000, 300] # Y-axis motion profile
+  param_z: [4, 8, 100, 1000, 1000, 300] # Z-axis motion profile
+  # Homing parameters [atype, invert_step, dpos, mpos, units, accel, decel, speed, sramp, datum_in, creep, datum_mode]
+  param_datum_x: [4, 8, 0, 0, 1000, 100, 1000, 100, 200, 3, 10, 103]
+  param_datum_y: [4, 8, 0, 0, 1000, 100, 1000, 100, 200, 0, 10, 103]
+  param_datum_z: [4, 8, 0, 0, 1000, 100, 1000, 100, 200, 6, 10, 103]
+
+# Syringe pump function codes
+pipette: /x4D
+disperse: /x42
+pump_state: /x4A
+
+
+# Spinsolve connection settings
+spinsolve: (localhost, 13000)
+
+
+# AGV settings
+trans200:
+  ipaddr: '192.0.2.100'
+  port: 8080
+
+# CR10 robot settings
+cr10:
+  ipaddr: 192.0.2.6
+  dash_port: 29999
+  motion_port: 30003
+  
+peristaltic_pump:
+  steps_per_ul: 1.2
+
+address:
+  dosing_D1: "01"
+  dosing_D2: "07"
+  clean_D1: "08"
+  clean_D2: "02"
+  clean_acetone: "03"
+  clean_water: "00"
+  rotate_gripper: "04"
+  parallel_gripper: "05"
+  linear_module: "06"

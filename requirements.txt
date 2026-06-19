@@ -1,0 +1,12 @@
+pandas
+openpyxl
+PyYAML
+PyQt5
+pyserial
+crccheck
+requests
+numpy
+scipy
+scikit-learn
+matplotlib
+pytest

@@ -1,0 +1,16 @@
+shaker:
+  port: "COM7"
+  baudrate: 9600
+  bytesize: 8
+  parity: "N"
+  stopbits: 1
+  timeout: 0.1
+  write_timeout: 0.5
+shaker_2:
+  port: "COM6"
+  baudrate: 9600
+  bytesize: 8
+  parity: "N"
+  stopbits: 1
+  timeout: 0.1
+  write_timeout: 0.5

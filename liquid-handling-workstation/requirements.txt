@@ -1,0 +1,9 @@
+pandas
+PyYAML
+pyserial
+crccheck
+requests
+numpy
+scipy
+scikit-learn
+matplotlib

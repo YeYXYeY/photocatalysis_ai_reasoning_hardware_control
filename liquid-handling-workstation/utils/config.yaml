@@ -1,0 +1,15 @@
+master_control_client:
+  host: 127.0.0.1
+  port: 1250
+
+solid_station_server:
+  host: 192.0.2.11
+  port: 1250
+
+liiquid_station_server:
+  host: 192.0.2.10
+  port: 1250
+
+peptide_station_server:
+  host: 192.0.2.14
+  port: 1250

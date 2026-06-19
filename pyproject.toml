@@ -1,0 +1,7 @@
+[project]
+name = "photocatalysis-ai-reasoning-hardware-control"
+version = "0.1.0"
+description = "Supplementary control code for an automated photocatalysis platform with a control hub and three hardware stations."
+readme = "README.md"
+requires-python = ">=3.10,<3.11"
+dependencies = []

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Message>
+    <Start protocol='1D PROTON'>
+        <Option name='Scan' value='QuickScan' />
+    </Start>
+</Message>

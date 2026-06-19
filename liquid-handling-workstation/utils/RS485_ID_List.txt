@@ -1,0 +1,10 @@
+ID      Device
+00      Syringe pump
+01      Dosing solvent 1 DMA 1200
+02      Cleaning solvent 2
+03      Cleaning acetone 1200
+07      Dosing solvent 2
+08      Cleaning solvent 1 DMA 1200
+04      Rotary gripper
+05      Parallel gripper
+06      Linear module
