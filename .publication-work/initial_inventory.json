@@ -1,0 +1,2238 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 390
+  },
+  {
+    "path": ".python-version",
+    "bytes": 5
+  },
+  {
+    "path": "findings.md",
+    "bytes": 535
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 491
+  },
+  {
+    "path": "main.py",
+    "bytes": 447
+  },
+  {
+    "path": "progress.md",
+    "bytes": 228
+  },
+  {
+    "path": "pyproject.toml",
+    "bytes": 286
+  },
+  {
+    "path": "README.md",
+    "bytes": 6316
+  },
+  {
+    "path": "REPRODUCE.md",
+    "bytes": 4075
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 99
+  },
+  {
+    "path": "SETUP.md",
+    "bytes": 4778
+  },
+  {
+    "path": "SYSTEM_ARCHITECTURE.md",
+    "bytes": 7446
+  },
+  {
+    "path": "task_plan.md",
+    "bytes": 1161
+  },
+  {
+    "path": "automatic-control-system/main.py",
+    "bytes": 104
+  },
+  {
+    "path": "automatic-control-system/README.md",
+    "bytes": 4011
+  },
+  {
+    "path": "automatic-control-system/requirements.txt",
+    "bytes": 29
+  },
+  {
+    "path": "liquid-handling-workstation/liquid_station_server.py",
+    "bytes": 1146
+  },
+  {
+    "path": "liquid-handling-workstation/main.py",
+    "bytes": 2389
+  },
+  {
+    "path": "liquid-handling-workstation/README.md",
+    "bytes": 2362
+  },
+  {
+    "path": "liquid-handling-workstation/requirements.txt",
+    "bytes": 77
+  },
+  {
+    "path": "mobile_robot/.gitignore",
+    "bytes": 2173
+  },
+  {
+    "path": "mobile_robot/main.py",
+    "bytes": 4964
+  },
+  {
+    "path": "mobile_robot/README.md",
+    "bytes": 1199
+  },
+  {
+    "path": "mobile_robot/requirements.txt",
+    "bytes": 9
+  },
+  {
+    "path": "photocatalytic_reactor/.gitignore",
+    "bytes": 72
+  },
+  {
+    "path": "photocatalytic_reactor/config.yaml",
+    "bytes": 238
+  },
+  {
+    "path": "photocatalytic_reactor/main.py",
+    "bytes": 2013
+  },
+  {
+    "path": "photocatalytic_reactor/photocatalytic_controller_bang_bang.py",
+    "bytes": 1753
+  },
+  {
+    "path": "photocatalytic_reactor/photocatalytic_controller_pid_pwm.py",
+    "bytes": 2052
+  },
+  {
+    "path": "photocatalytic_reactor/reactor_station_server.py",
+    "bytes": 378
+  },
+  {
+    "path": "photocatalytic_reactor/README.md",
+    "bytes": 1048
+  },
+  {
+    "path": "photocatalytic_reactor/requirements.txt",
+    "bytes": 34
+  },
+  {
+    "path": "photocatalytic_reactor/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "solid_handling_station/main copy.py",
+    "bytes": 6577
+  },
+  {
+    "path": "solid_handling_station/main.py",
+    "bytes": 6656
+  },
+  {
+    "path": "solid_handling_station/main240703.py",
+    "bytes": 4802
+  },
+  {
+    "path": "solid_handling_station/main_test.py",
+    "bytes": 5679
+  },
+  {
+    "path": "solid_handling_station/motion.log",
+    "bytes": 290
+  },
+  {
+    "path": "solid_handling_station/README.md",
+    "bytes": 3220
+  },
+  {
+    "path": "solid_handling_station/solid_station_server.py",
+    "bytes": 1151
+  },
+  {
+    "path": "solid_handling_station/test.log",
+    "bytes": 684
+  },
+  {
+    "path": "solid_handling_station/.vscode/launch.json",
+    "bytes": 599
+  },
+  {
+    "path": "solid_handling_station/.vscode/settings.json",
+    "bytes": 155
+  },
+  {
+    "path": "solid_handling_station/client/master_control_client.py",
+    "bytes": 8176
+  },
+  {
+    "path": "solid_handling_station/client/station_info.py",
+    "bytes": 1678
+  },
+  {
+    "path": "solid_handling_station/client/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "solid_handling_station/coordinates/balance.xlsx",
+    "bytes": 6467
+  },
+  {
+    "path": "solid_handling_station/coordinates/bottle_info.xlsx",
+    "bytes": 5754
+  },
+  {
+    "path": "solid_handling_station/coordinates/database.xlsx",
+    "bytes": 9683
+  },
+  {
+    "path": "solid_handling_station/coordinates/head.xlsx",
+    "bytes": 7872
+  },
+  {
+    "path": "solid_handling_station/coordinates/reaction.xlsx",
+    "bytes": 7068
+  },
+  {
+    "path": "solid_handling_station/devices/config.yaml",
+    "bytes": 768
+  },
+  {
+    "path": "solid_handling_station/devices/motion copy.py",
+    "bytes": 30901
+  },
+  {
+    "path": "solid_handling_station/devices/motion.log",
+    "bytes": 29376
+  },
+  {
+    "path": "solid_handling_station/devices/motion.py",
+    "bytes": 27107
+  },
+  {
+    "path": "solid_handling_station/devices/Sartorius.py",
+    "bytes": 2183
+  },
+  {
+    "path": "solid_handling_station/devices/weighing.py",
+    "bytes": 4953
+  },
+  {
+    "path": "solid_handling_station/devices/weighing_mk210.py",
+    "bytes": 7256
+  },
+  {
+    "path": "solid_handling_station/devices/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "solid_handling_station/log/202407081953.log",
+    "bytes": 74
+  },
+  {
+    "path": "solid_handling_station/log/202407082129.log",
+    "bytes": 925
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_23_20_56_35.log",
+    "bytes": 244
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_23_21_29_54.log",
+    "bytes": 168
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_23_21_30_49.log",
+    "bytes": 168
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_23_21_31_27.log",
+    "bytes": 168
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_24_15_34_40.log",
+    "bytes": 168
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_24_15_35_51.log",
+    "bytes": 168
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_24_15_44_04.log",
+    "bytes": 168
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_24_15_48_31.log",
+    "bytes": 168
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_10_59_04.log",
+    "bytes": 413
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_15_44_47.log",
+    "bytes": 337
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_15_45_59.log",
+    "bytes": 29713
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_15_48_00.log",
+    "bytes": 30568
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_01_14.log",
+    "bytes": 31315
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_02_03.log",
+    "bytes": 31315
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_03_57.log",
+    "bytes": 31165
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_05_38.log",
+    "bytes": 24325
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_09_49.log",
+    "bytes": 22885
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_20_53.log",
+    "bytes": 23065
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_21_11.log",
+    "bytes": 23075
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_23_33.log",
+    "bytes": 23355
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_25_23.log",
+    "bytes": 23355
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_28_09.log",
+    "bytes": 247
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_50_07.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_51_02.log",
+    "bytes": 315
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_55_52.log",
+    "bytes": 247
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_17_00_06.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_17_00_20.log",
+    "bytes": 266
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_17_05_01.log",
+    "bytes": 423
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_17_07_06.log",
+    "bytes": 247
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_17_27_31.log",
+    "bytes": 145
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_19_27_14.log",
+    "bytes": 145
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_19_27_51.log",
+    "bytes": 283
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_19_29_18.log",
+    "bytes": 1178
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_19_31_50.log",
+    "bytes": 1748
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_19_38_30.log",
+    "bytes": 283
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_19_39_49.log",
+    "bytes": 1819
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_19_59_52.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_20_00_37.log",
+    "bytes": 1893
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_20_07_12.log",
+    "bytes": 1343
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_20_11_47.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_23_55_18.log",
+    "bytes": 358
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_23_57_46.log",
+    "bytes": 772
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_04_14.log",
+    "bytes": 314
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_05_38.log",
+    "bytes": 1117
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_18_01.log",
+    "bytes": 1557
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_20_18.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_23_01.log",
+    "bytes": 512
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_27_12.log",
+    "bytes": 1924
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_38_48.log",
+    "bytes": 597
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_43_49.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_44_06.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_44_25.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_45_05.log",
+    "bytes": 651
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_51_54.log",
+    "bytes": 896
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_01_01_04.log",
+    "bytes": 1572
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_01_07_32.log",
+    "bytes": 1344
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_13_50_18.log",
+    "bytes": 1310
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_13_57_52.log",
+    "bytes": 358
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_00_22.log",
+    "bytes": 358
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_02_48.log",
+    "bytes": 358
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_04_06.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_04_34.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_05_03.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_05_08.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_05_12.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_05_15.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_06_20.log",
+    "bytes": 358
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_08_31.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_11_40.log",
+    "bytes": 736
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_19_58.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_20_22.log",
+    "bytes": 650
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_24_07.log",
+    "bytes": 2114
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_41_46.log",
+    "bytes": 358
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_45_28.log",
+    "bytes": 358
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_47_45.log",
+    "bytes": 5654
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_57_23.log",
+    "bytes": 1220
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_15_04_28.log",
+    "bytes": 12269
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_15_32_01.log",
+    "bytes": 1285
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_15_38_36.log",
+    "bytes": 12547
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_15_53_55.log",
+    "bytes": 1268
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_15_55_39.log",
+    "bytes": 11863
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_16_02_31.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_16_03_34.log",
+    "bytes": 1333
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_16_05_50.log",
+    "bytes": 5070
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_16_11_57.log",
+    "bytes": 17181
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_16_39_13.log",
+    "bytes": 6492
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_16_47_37.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_16_48_31.log",
+    "bytes": 1110
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_16_55_01.log",
+    "bytes": 427
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_16_56_54.log",
+    "bytes": 829
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_01_26.log",
+    "bytes": 4531
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_06_22.log",
+    "bytes": 4899
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_13_14.log",
+    "bytes": 3097
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_34_37.log",
+    "bytes": 4952
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_47_47.log",
+    "bytes": 268
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_48_09.log",
+    "bytes": 667
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_49_51.log",
+    "bytes": 17139
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_52_30.log",
+    "bytes": 1042
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_57_11.log",
+    "bytes": 1233
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_59_24.log",
+    "bytes": 472
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_59_37.log",
+    "bytes": 4385
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_18_08_01.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_18_08_05.log",
+    "bytes": 21872
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_18_49_40.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_18_49_51.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_18_50_06.log",
+    "bytes": 2382
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_18_58_07.log",
+    "bytes": 1117
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_19_01_14.log",
+    "bytes": 11571
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_19_20_34.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_00_16.log",
+    "bytes": 1080
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_01_20.log",
+    "bytes": 274
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_01_49.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_09_34.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_10_54.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_20_53.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_25_37.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_26_40.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_28_44.log",
+    "bytes": 3559
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_41_43.log",
+    "bytes": 5302
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_27_09_08_51.log",
+    "bytes": 4855
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_27_09_43_15.log",
+    "bytes": 145
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_27_09_43_32.log",
+    "bytes": 2882
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_27_09_48_35.log",
+    "bytes": 7663
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_27_09_58_02.log",
+    "bytes": 1117
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_27_10_06_26.log",
+    "bytes": 72200
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_20_08_49.log",
+    "bytes": 1748
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_20_13_54.log",
+    "bytes": 9855
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_20_34_01.log",
+    "bytes": 15479
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_21_24_09.log",
+    "bytes": 1907
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_21_27_06.log",
+    "bytes": 682
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_21_27_21.log",
+    "bytes": 1717
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_21_29_21.log",
+    "bytes": 10221
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_21_46_36.log",
+    "bytes": 4432
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_01_26.log",
+    "bytes": 1117
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_07_50.log",
+    "bytes": 472
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_08_05.log",
+    "bytes": 1257
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_11_46.log",
+    "bytes": 1685
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_15_25.log",
+    "bytes": 1708
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_23_25.log",
+    "bytes": 1966
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_29_33.log",
+    "bytes": 2184
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_38_26.log",
+    "bytes": 732
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_38_56.log",
+    "bytes": 20634607
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_42_55.log",
+    "bytes": 9181
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_23_06_31.log",
+    "bytes": 722
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_23_07_19.log",
+    "bytes": 722
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_23_07_45.log",
+    "bytes": 722
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_23_09_06.log",
+    "bytes": 869
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_23_11_18.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_23_12_03.log",
+    "bytes": 1698
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_23_14_57.log",
+    "bytes": 8140
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_00_47_24.log",
+    "bytes": 23516
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_01_42_14.log",
+    "bytes": 5017
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_05_15_12.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_05_15_46.log",
+    "bytes": 46934
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_06_24_45.log",
+    "bytes": 50084
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_14_34_22.log",
+    "bytes": 13899
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_14_53_04.log",
+    "bytes": 7296
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_15_05_29.log",
+    "bytes": 7721
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_15_19_19.log",
+    "bytes": 4742
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_15_25_09.log",
+    "bytes": 1246
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_04_05_23_07.log",
+    "bytes": 590
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_04_05_25_02.log",
+    "bytes": 3175
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_04_05_29_26.log",
+    "bytes": 2297
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_04_15_31_16.log",
+    "bytes": 1263
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_04_19_41_43.log",
+    "bytes": 5810
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_04_20_33_00.log",
+    "bytes": 4503
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_16_40_01.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_16_41_27.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_16_42_14.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_16_54_04.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_16_54_26.log",
+    "bytes": 1113
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_16_58_00.log",
+    "bytes": 387
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_16_58_15.log",
+    "bytes": 6767
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_17_10_44.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_17_11_24.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_17_14_47.log",
+    "bytes": 579
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_17_16_31.log",
+    "bytes": 28750
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_18_51_58.log",
+    "bytes": 8345
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_19_08_48.log",
+    "bytes": 14745
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_21_58_51.log",
+    "bytes": 4921
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_16_04_33.log",
+    "bytes": 50561
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_17_53_12.log",
+    "bytes": 779
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_17_54_08.log",
+    "bytes": 14802
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_18_19_17.log",
+    "bytes": 2209
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_19_26_31.log",
+    "bytes": 344
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_19_26_48.log",
+    "bytes": 779
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_19_27_50.log",
+    "bytes": 51108
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_20_57_52.log",
+    "bytes": 344
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_20_58_02.log",
+    "bytes": 779
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_20_59_27.log",
+    "bytes": 6414
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_11_22_56_27.log",
+    "bytes": 325
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_11_22_56_36.log",
+    "bytes": 296
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_11_22_57_26.log",
+    "bytes": 296
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_11_23_45_33.log",
+    "bytes": 7380
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_12_00_02_12.log",
+    "bytes": 268
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_12_00_02_56.log",
+    "bytes": 6158
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_12_00_20_52.log",
+    "bytes": 9356
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_12_00_30_43.log",
+    "bytes": 198
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_12_00_30_51.log",
+    "bytes": 296
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_12_00_32_08.log",
+    "bytes": 5238
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_12_00_42_11.log",
+    "bytes": 6965
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_12_01_00_26.log",
+    "bytes": 37525
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_12_19_21_02.log",
+    "bytes": 1818
+  },
+  {
+    "path": "solid_handling_station/main/main1022.py",
+    "bytes": 8686
+  },
+  {
+    "path": "solid_handling_station/main/main1031.py",
+    "bytes": 4175
+  },
+  {
+    "path": "solid_handling_station/main/main1121.py",
+    "bytes": 5607
+  },
+  {
+    "path": "solid_handling_station/main/main1122.py",
+    "bytes": 1147
+  },
+  {
+    "path": "solid_handling_station/server/liquid_station_server.py",
+    "bytes": 1148
+  },
+  {
+    "path": "solid_handling_station/server/mobile_robot_server.py",
+    "bytes": 1144
+  },
+  {
+    "path": "solid_handling_station/server/peptide_synthesis_server.py",
+    "bytes": 1154
+  },
+  {
+    "path": "solid_handling_station/server/reactor_station_server.py",
+    "bytes": 946
+  },
+  {
+    "path": "solid_handling_station/server/station_server.py",
+    "bytes": 7687
+  },
+  {
+    "path": "solid_handling_station/server/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "solid_handling_station/task/0621task.xlsx",
+    "bytes": 9703
+  },
+  {
+    "path": "solid_handling_station/task/202407040117.xlsx",
+    "bytes": 5516
+  },
+  {
+    "path": "solid_handling_station/task/20240704011905.xlsx",
+    "bytes": 5516
+  },
+  {
+    "path": "solid_handling_station/task/20240704011907.xlsx",
+    "bytes": 5516
+  },
+  {
+    "path": "solid_handling_station/task/20240704011908.xlsx",
+    "bytes": 5516
+  },
+  {
+    "path": "solid_handling_station/task/20240704012948.xlsx",
+    "bytes": 5516
+  },
+  {
+    "path": "solid_handling_station/task/20240704013212.xlsx",
+    "bytes": 5515
+  },
+  {
+    "path": "solid_handling_station/task/20240704013220.xlsx",
+    "bytes": 5515
+  },
+  {
+    "path": "solid_handling_station/task/20240704013920.xlsx",
+    "bytes": 5515
+  },
+  {
+    "path": "solid_handling_station/task/20240704014111.xlsx",
+    "bytes": 5515
+  },
+  {
+    "path": "solid_handling_station/task/20240704014158.xlsx",
+    "bytes": 5516
+  },
+  {
+    "path": "solid_handling_station/task/20240704014230.xlsx",
+    "bytes": 5515
+  },
+  {
+    "path": "solid_handling_station/task/20240704014303.xlsx",
+    "bytes": 5515
+  },
+  {
+    "path": "solid_handling_station/task/20240704014454.xlsx",
+    "bytes": 5516
+  },
+  {
+    "path": "solid_handling_station/task/20240704014542.xlsx",
+    "bytes": 5516
+  },
+  {
+    "path": "solid_handling_station/task/20240704014700.xlsx",
+    "bytes": 5516
+  },
+  {
+    "path": "solid_handling_station/task/20240704045530.xlsx",
+    "bytes": 5515
+  },
+  {
+    "path": "solid_handling_station/task/20240704050726.xlsx",
+    "bytes": 5515
+  },
+  {
+    "path": "solid_handling_station/task/20240704050930.xlsx",
+    "bytes": 5515
+  },
+  {
+    "path": "solid_handling_station/task/20240704051135.xlsx",
+    "bytes": 5516
+  },
+  {
+    "path": "solid_handling_station/task/20240704051823.xlsx",
+    "bytes": 5515
+  },
+  {
+    "path": "solid_handling_station/task/20240704051931.xlsx",
+    "bytes": 7007
+  },
+  {
+    "path": "solid_handling_station/task/20240704052306.xlsx",
+    "bytes": 5515
+  },
+  {
+    "path": "solid_handling_station/task/20240704052502.xlsx",
+    "bytes": 5449
+  },
+  {
+    "path": "solid_handling_station/task/20240704052926.xlsx",
+    "bytes": 5398
+  },
+  {
+    "path": "solid_handling_station/task/20240704153116.xlsx",
+    "bytes": 4984
+  },
+  {
+    "path": "solid_handling_station/task/20240704194142.xlsx",
+    "bytes": 4983
+  },
+  {
+    "path": "solid_handling_station/task/20240704203300.xlsx",
+    "bytes": 4983
+  },
+  {
+    "path": "solid_handling_station/task/20240708215850.xlsx",
+    "bytes": 6728
+  },
+  {
+    "path": "solid_handling_station/task/task.xlsx",
+    "bytes": 9069
+  },
+  {
+    "path": "solid_handling_station/task/task1101.xlsx",
+    "bytes": 7415
+  },
+  {
+    "path": "solid_handling_station/task/task240701.xlsx",
+    "bytes": 9044
+  },
+  {
+    "path": "solid_handling_station/task/task240702.xlsx",
+    "bytes": 9071
+  },
+  {
+    "path": "solid_handling_station/task/task240703.xlsx",
+    "bytes": 9058
+  },
+  {
+    "path": "solid_handling_station/task/task240704.xlsx",
+    "bytes": 9020
+  },
+  {
+    "path": "solid_handling_station/task/task240705.xlsx",
+    "bytes": 9030
+  },
+  {
+    "path": "solid_handling_station/task/task240706.xlsx",
+    "bytes": 9024
+  },
+  {
+    "path": "solid_handling_station/task/task240707.xlsx",
+    "bytes": 9017
+  },
+  {
+    "path": "solid_handling_station/task/task240708.xlsx",
+    "bytes": 9087
+  },
+  {
+    "path": "solid_handling_station/test/test.py",
+    "bytes": 21
+  },
+  {
+    "path": "solid_handling_station/test/test.xlsx",
+    "bytes": 5498
+  },
+  {
+    "path": "solid_handling_station/test/test240123.py",
+    "bytes": 2310
+  },
+  {
+    "path": "solid_handling_station/test/test_condition.py",
+    "bytes": 599
+  },
+  {
+    "path": "solid_handling_station/test/test_dynamic_linear_regression.py",
+    "bytes": 2569
+  },
+  {
+    "path": "solid_handling_station/test/test_file.py",
+    "bytes": 1684
+  },
+  {
+    "path": "solid_handling_station/test/test_multi_thread.py",
+    "bytes": 7053
+  },
+  {
+    "path": "solid_handling_station/test/test_threading.py",
+    "bytes": 4627
+  },
+  {
+    "path": "solid_handling_station/test/test_threading2.py",
+    "bytes": 5194
+  },
+  {
+    "path": "solid_handling_station/test/test_weighing.py",
+    "bytes": 3440
+  },
+  {
+    "path": "solid_handling_station/utilities/calc_crc.py",
+    "bytes": 1010
+  },
+  {
+    "path": "solid_handling_station/utilities/config.py",
+    "bytes": 2001
+  },
+  {
+    "path": "solid_handling_station/utilities/config.yaml",
+    "bytes": 767
+  },
+  {
+    "path": "solid_handling_station/utilities/dynamic_linear_regression.py",
+    "bytes": 4673
+  },
+  {
+    "path": "solid_handling_station/utilities/line.py",
+    "bytes": 1377
+  },
+  {
+    "path": "solid_handling_station/utilities/record_executor_data.py",
+    "bytes": 2555
+  },
+  {
+    "path": "solid_handling_station/utilities/shared_variables.py",
+    "bytes": 511
+  },
+  {
+    "path": "solid_handling_station/utilities/solid_weigh.py",
+    "bytes": 24540
+  },
+  {
+    "path": "solid_handling_station/utilities/solid_weigh_mk210.py",
+    "bytes": 36826
+  },
+  {
+    "path": "solid_handling_station/utilities/solid_weigh_old.py",
+    "bytes": 16450
+  },
+  {
+    "path": "solid_handling_station/utilities/split_task.py",
+    "bytes": 1253
+  },
+  {
+    "path": "solid_handling_station/utilities/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "solid_handling_station/utils/config.py",
+    "bytes": 2237
+  },
+  {
+    "path": "solid_handling_station/utils/config.yaml",
+    "bytes": 236
+  },
+  {
+    "path": "solid_handling_station/utils/send_email.py",
+    "bytes": 1647
+  },
+  {
+    "path": "solid_handling_station/utils/split_task.py",
+    "bytes": 1786
+  },
+  {
+    "path": "solid_handling_station/utils/update_depth.py",
+    "bytes": 1152
+  },
+  {
+    "path": "solid_handling_station/utils/utiltis.py",
+    "bytes": 567
+  },
+  {
+    "path": "solid_handling_station/utils/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/config.cpython-310.pyc",
+    "bytes": 1734
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/email.cpython-312.pyc",
+    "bytes": 1771
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/split_task.cpython-310.pyc",
+    "bytes": 1356
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/split_task.cpython-312.pyc",
+    "bytes": 1547
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/station_info.cpython-310.pyc",
+    "bytes": 730
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/station_info.cpython-311.pyc",
+    "bytes": 720
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/station_info.cpython-312.pyc",
+    "bytes": 723
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/__init__.cpython-310.pyc",
+    "bytes": 154
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/__init__.cpython-311.pyc",
+    "bytes": 172
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/__init__.cpython-312.pyc",
+    "bytes": 160
+  },
+  {
+    "path": "solid_handling_station/utilities/__pycache__/calc_crc.cpython-310.pyc",
+    "bytes": 989
+  },
+  {
+    "path": "solid_handling_station/utilities/__pycache__/calc_crc.cpython-311.pyc",
+    "bytes": 1678
+  },
+  {
+    "path": "solid_handling_station/utilities/__pycache__/config.cpython-310.pyc",
+    "bytes": 1452
+  },
+  {
+    "path": "solid_handling_station/utilities/__pycache__/dynamic_linear_regression.cpython-310.pyc",
+    "bytes": 3492
+  },
+  {
+    "path": "solid_handling_station/utilities/__pycache__/shared_variables.cpython-310.pyc",
+    "bytes": 480
+  },
+  {
+    "path": "solid_handling_station/utilities/__pycache__/solid_weigh.cpython-310.pyc",
+    "bytes": 15372
+  },
+  {
+    "path": "solid_handling_station/utilities/__pycache__/__init__.cpython-310.pyc",
+    "bytes": 180
+  },
+  {
+    "path": "solid_handling_station/utilities/__pycache__/__init__.cpython-311.pyc",
+    "bytes": 196
+  },
+  {
+    "path": "solid_handling_station/task/20240627094332/actual_weight.xlsx",
+    "bytes": 5467
+  },
+  {
+    "path": "solid_handling_station/task/20240627100626/actual_weight_{current_time}.xlsx",
+    "bytes": 5500
+  },
+  {
+    "path": "solid_handling_station/task/20240701231457/actual_weight_{current_time}.xlsx",
+    "bytes": 5473
+  },
+  {
+    "path": "solid_handling_station/task/20240702051547/actual_weight_{current_time}.xlsx",
+    "bytes": 10168
+  },
+  {
+    "path": "solid_handling_station/task/20240702062445/actual_weight_{current_time}.xlsx",
+    "bytes": 6997
+  },
+  {
+    "path": "solid_handling_station/task/20240704052502/actual_weight_{current_time}.xlsx",
+    "bytes": 5448
+  },
+  {
+    "path": "solid_handling_station/task/20240704052926/actual_weight_{current_time}.xlsx",
+    "bytes": 5399
+  },
+  {
+    "path": "solid_handling_station/task/20240704153117/actual_weight_{current_time}.xlsx",
+    "bytes": 4984
+  },
+  {
+    "path": "solid_handling_station/task/20240704194143/actual_weight_{current_time}.xlsx",
+    "bytes": 4983
+  },
+  {
+    "path": "solid_handling_station/task/20240704203300/actual_weight_{current_time}.xlsx",
+    "bytes": 4984
+  },
+  {
+    "path": "solid_handling_station/task/20240708165815/actual_weight_{current_time}.xlsx",
+    "bytes": 5471
+  },
+  {
+    "path": "solid_handling_station/task/20240709205927/actual_weight_{current_time}.xlsx",
+    "bytes": 5288
+  },
+  {
+    "path": "solid_handling_station/task/20240711234533/actual_weight_{current_time}.xlsx",
+    "bytes": 5468
+  },
+  {
+    "path": "solid_handling_station/task/20240712000257/actual_weight_{current_time}.xlsx",
+    "bytes": 5466
+  },
+  {
+    "path": "solid_handling_station/server/__pycache__/station_server.cpython-310.pyc",
+    "bytes": 4780
+  },
+  {
+    "path": "solid_handling_station/server/__pycache__/station_server.cpython-311.pyc",
+    "bytes": 10550
+  },
+  {
+    "path": "solid_handling_station/server/__pycache__/__init__.cpython-310.pyc",
+    "bytes": 177
+  },
+  {
+    "path": "solid_handling_station/server/__pycache__/__init__.cpython-311.pyc",
+    "bytes": 193
+  },
+  {
+    "path": "solid_handling_station/devices/__pycache__/motion.cpython-310.pyc",
+    "bytes": 16782
+  },
+  {
+    "path": "solid_handling_station/devices/__pycache__/weighing.cpython-310.pyc",
+    "bytes": 3798
+  },
+  {
+    "path": "solid_handling_station/devices/__pycache__/__init__.cpython-310.pyc",
+    "bytes": 178
+  },
+  {
+    "path": "solid_handling_station/client/__pycache__/station_info.cpython-310.pyc",
+    "bytes": 892
+  },
+  {
+    "path": "solid_handling_station/client/__pycache__/__init__.cpython-310.pyc",
+    "bytes": 177
+  },
+  {
+    "path": "photocatalytic_reactor/app/reactor_controller.py",
+    "bytes": 13987
+  },
+  {
+    "path": "photocatalytic_reactor/app/reactor_logic.py",
+    "bytes": 1505
+  },
+  {
+    "path": "photocatalytic_reactor/app/runtime.py",
+    "bytes": 2549
+  },
+  {
+    "path": "photocatalytic_reactor/app/__init__.py",
+    "bytes": 73
+  },
+  {
+    "path": "photocatalytic_reactor/client/master_control_client.py",
+    "bytes": 6283
+  },
+  {
+    "path": "photocatalytic_reactor/client/station_info.py",
+    "bytes": 1251
+  },
+  {
+    "path": "photocatalytic_reactor/client/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "photocatalytic_reactor/core/config.py",
+    "bytes": 2866
+  },
+  {
+    "path": "photocatalytic_reactor/core/pid_controller.py",
+    "bytes": 1827
+  },
+  {
+    "path": "photocatalytic_reactor/core/__init__.py",
+    "bytes": 74
+  },
+  {
+    "path": "photocatalytic_reactor/drivers/digital_io_rs485.py",
+    "bytes": 8482
+  },
+  {
+    "path": "photocatalytic_reactor/drivers/power_controller.py",
+    "bytes": 3398
+  },
+  {
+    "path": "photocatalytic_reactor/drivers/serial_communicator.py",
+    "bytes": 3446
+  },
+  {
+    "path": "photocatalytic_reactor/drivers/shaker_controller.py",
+    "bytes": 7671
+  },
+  {
+    "path": "photocatalytic_reactor/drivers/__init__.py",
+    "bytes": 62
+  },
+  {
+    "path": "photocatalytic_reactor/server/liquid_station_server.py",
+    "bytes": 411
+  },
+  {
+    "path": "photocatalytic_reactor/server/mobile_robot_server.py",
+    "bytes": 401
+  },
+  {
+    "path": "photocatalytic_reactor/server/peptide_synthesis_server.py",
+    "bytes": 440
+  },
+  {
+    "path": "photocatalytic_reactor/server/reactor_station_server.py",
+    "bytes": 409
+  },
+  {
+    "path": "photocatalytic_reactor/server/server_entrypoint.py",
+    "bytes": 922
+  },
+  {
+    "path": "photocatalytic_reactor/server/station_server.py",
+    "bytes": 7175
+  },
+  {
+    "path": "photocatalytic_reactor/server/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "photocatalytic_reactor/tests/test_digital_io_rs485.py",
+    "bytes": 1652
+  },
+  {
+    "path": "photocatalytic_reactor/tests/test_project_structure_imports.py",
+    "bytes": 960
+  },
+  {
+    "path": "photocatalytic_reactor/tests/test_reactor_logic.py",
+    "bytes": 1697
+  },
+  {
+    "path": "photocatalytic_reactor/tests/test_shaker_controller.py",
+    "bytes": 1285
+  },
+  {
+    "path": "photocatalytic_reactor/tests/test_station_command_validation.py",
+    "bytes": 1058
+  },
+  {
+    "path": "mobile_robot/devices/config.py",
+    "bytes": 1812
+  },
+  {
+    "path": "mobile_robot/devices/cr10.py",
+    "bytes": 2467
+  },
+  {
+    "path": "mobile_robot/devices/robot_commands.py",
+    "bytes": 417
+  },
+  {
+    "path": "mobile_robot/devices/trans200.py",
+    "bytes": 4186
+  },
+  {
+    "path": "mobile_robot/devices/__init__.py",
+    "bytes": 147
+  },
+  {
+    "path": "mobile_robot/tests/test_devices.py",
+    "bytes": 3919
+  },
+  {
+    "path": "mobile_robot/tests/test_main.py",
+    "bytes": 1054
+  },
+  {
+    "path": "mobile_robot/tests/test_workflows.py",
+    "bytes": 1763
+  },
+  {
+    "path": "mobile_robot/workflows/standard.py",
+    "bytes": 1197
+  },
+  {
+    "path": "mobile_robot/workflows/__init__.py",
+    "bytes": 165
+  },
+  {
+    "path": "liquid-handling-workstation/client/master_control_client.py",
+    "bytes": 8172
+  },
+  {
+    "path": "liquid-handling-workstation/client/station_info.py",
+    "bytes": 1549
+  },
+  {
+    "path": "liquid-handling-workstation/client/__init__.py",
+    "bytes": 2
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/clean_for_gripper.xlsx",
+    "bytes": 7745
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/dosing_head.xlsx",
+    "bytes": 7649
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/gripper.xlsx",
+    "bytes": 5514
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/nmr_prepare copy.xlsx",
+    "bytes": 8157
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/nmr_prepare.xlsx",
+    "bytes": 7167
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/reaction_for_dosing.xlsx",
+    "bytes": 8931
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/reaction_for_dosing_wzy.xlsx",
+    "bytes": 7817
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/reaction_for_gripper.xlsx",
+    "bytes": 8836
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/reaction_for_pump.xlsx",
+    "bytes": 8864
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/reaction_for_pump2.xlsx",
+    "bytes": 8861
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/reagent.xlsx",
+    "bytes": 9631
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/reagent_peptide.xlsx",
+    "bytes": 7921
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/slot_for_gripper.xlsx",
+    "bytes": 8065
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/slot_for_pump.xlsx",
+    "bytes": 8033
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/test.py",
+    "bytes": 371
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/tip_for_gripper.xlsx",
+    "bytes": 5827
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/tip_for_pump.xlsx",
+    "bytes": 6312
+  },
+  {
+    "path": "liquid-handling-workstation/devices/bt100.py",
+    "bytes": 255
+  },
+  {
+    "path": "liquid-handling-workstation/devices/config.yaml",
+    "bytes": 1706
+  },
+  {
+    "path": "liquid-handling-workstation/devices/controller.py",
+    "bytes": 18406
+  },
+  {
+    "path": "liquid-handling-workstation/devices/cr10.py",
+    "bytes": 23
+  },
+  {
+    "path": "liquid-handling-workstation/devices/liquid_station.py",
+    "bytes": 64372
+  },
+  {
+    "path": "liquid-handling-workstation/devices/liquid_station_peptide.py",
+    "bytes": 58323
+  },
+  {
+    "path": "liquid-handling-workstation/devices/liquid_station_runtime.py",
+    "bytes": 2451
+  },
+  {
+    "path": "liquid-handling-workstation/devices/motion.py",
+    "bytes": 15504
+  },
+  {
+    "path": "liquid-handling-workstation/devices/pump.py",
+    "bytes": 3709
+  },
+  {
+    "path": "liquid-handling-workstation/devices/relay4.py",
+    "bytes": 771
+  },
+  {
+    "path": "liquid-handling-workstation/devices/rs485.py",
+    "bytes": 5310
+  },
+  {
+    "path": "liquid-handling-workstation/devices/spinsolve.py",
+    "bytes": 10197
+  },
+  {
+    "path": "liquid-handling-workstation/devices/spinsolve1225.py",
+    "bytes": 6569
+  },
+  {
+    "path": "liquid-handling-workstation/devices/trans200.py",
+    "bytes": 826
+  },
+  {
+    "path": "liquid-handling-workstation/devices/weighing.py",
+    "bytes": 1648
+  },
+  {
+    "path": "liquid-handling-workstation/devices/workstation.py",
+    "bytes": 4519
+  },
+  {
+    "path": "liquid-handling-workstation/devices/__init__.py",
+    "bytes": 2
+  },
+  {
+    "path": "liquid-handling-workstation/server/mobile_robot_server.py",
+    "bytes": 1130
+  },
+  {
+    "path": "liquid-handling-workstation/server/peptide_synthesis_server.py",
+    "bytes": 1158
+  },
+  {
+    "path": "liquid-handling-workstation/server/reactor_station_server.py",
+    "bytes": 1014
+  },
+  {
+    "path": "liquid-handling-workstation/server/solid_station_server.py",
+    "bytes": 1140
+  },
+  {
+    "path": "liquid-handling-workstation/server/station_server.py",
+    "bytes": 6489
+  },
+  {
+    "path": "liquid-handling-workstation/server/__init__.py",
+    "bytes": 2
+  },
+  {
+    "path": "liquid-handling-workstation/task/250916task.xlsx",
+    "bytes": 8709
+  },
+  {
+    "path": "liquid-handling-workstation/task/task.xlsx",
+    "bytes": 7096
+  },
+  {
+    "path": "liquid-handling-workstation/tests/test_config_utils.py",
+    "bytes": 2885
+  },
+  {
+    "path": "liquid-handling-workstation/tests/test_liquid_station_runtime.py",
+    "bytes": 3073
+  },
+  {
+    "path": "liquid-handling-workstation/utils/calc.py",
+    "bytes": 1090
+  },
+  {
+    "path": "liquid-handling-workstation/utils/config.py",
+    "bytes": 2239
+  },
+  {
+    "path": "liquid-handling-workstation/utils/config.yaml",
+    "bytes": 223
+  },
+  {
+    "path": "liquid-handling-workstation/utils/generate_coordinate.py",
+    "bytes": 870
+  },
+  {
+    "path": "liquid-handling-workstation/utils/nmr_analyse.py",
+    "bytes": 1373
+  },
+  {
+    "path": "liquid-handling-workstation/utils/RS485_ID_List.txt",
+    "bytes": 258
+  },
+  {
+    "path": "liquid-handling-workstation/utils/send_email.py",
+    "bytes": 1074
+  },
+  {
+    "path": "liquid-handling-workstation/utils/split_liquid_task.py",
+    "bytes": 3666
+  },
+  {
+    "path": "liquid-handling-workstation/utils/split_task.py",
+    "bytes": 4352
+  },
+  {
+    "path": "liquid-handling-workstation/utils/to_csv.py",
+    "bytes": 930
+  },
+  {
+    "path": "liquid-handling-workstation/utils/update_depth.py",
+    "bytes": 857
+  },
+  {
+    "path": "liquid-handling-workstation/utils/utiltis.py",
+    "bytes": 567
+  },
+  {
+    "path": "liquid-handling-workstation/xml/AOR.xml",
+    "bytes": 113
+  },
+  {
+    "path": "liquid-handling-workstation/xml/APR.xml",
+    "bytes": 93
+  },
+  {
+    "path": "liquid-handling-workstation/xml/ShimSample.xml",
+    "bytes": 159
+  },
+  {
+    "path": "liquid-handling-workstation/xml/Start1H.xml",
+    "bytes": 159
+  },
+  {
+    "path": "liquid-handling-workstation/devices/zmotion/zauxdll.dll",
+    "bytes": 4410880
+  },
+  {
+    "path": "liquid-handling-workstation/devices/zmotion/zauxdllPython.py",
+    "bytes": 156431
+  },
+  {
+    "path": "liquid-handling-workstation/devices/zmotion/zmotion.dll",
+    "bytes": 3596288
+  },
+  {
+    "path": "liquid-handling-workstation/devices/zmotion/__init__.py",
+    "bytes": 2
+  },
+  {
+    "path": "automatic-control-system/client/master_control_client.py",
+    "bytes": 8591
+  },
+  {
+    "path": "automatic-control-system/client/station_info.py",
+    "bytes": 4342
+  },
+  {
+    "path": "automatic-control-system/client/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "automatic-control-system/server/bootstrap.py",
+    "bytes": 1333
+  },
+  {
+    "path": "automatic-control-system/server/liquid_station_server.py",
+    "bytes": 376
+  },
+  {
+    "path": "automatic-control-system/server/mobile_robot_server.py",
+    "bytes": 376
+  },
+  {
+    "path": "automatic-control-system/server/peptide_synthesis_server.py",
+    "bytes": 380
+  },
+  {
+    "path": "automatic-control-system/server/reactor_station_server.py",
+    "bytes": 381
+  },
+  {
+    "path": "automatic-control-system/server/solid_station_server.py",
+    "bytes": 372
+  },
+  {
+    "path": "automatic-control-system/server/station_server.py",
+    "bytes": 6587
+  },
+  {
+    "path": "automatic-control-system/server/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "automatic-control-system/station_status/initial_status.yaml",
+    "bytes": 2832
+  },
+  {
+    "path": "automatic-control-system/station_status/liquid_chemical_remaining.xlsx",
+    "bytes": 7193
+  },
+  {
+    "path": "automatic-control-system/station_status/nmr_prepare.xlsx",
+    "bytes": 6816
+  },
+  {
+    "path": "automatic-control-system/station_status/reactant_info_1.xlsx",
+    "bytes": 7058
+  },
+  {
+    "path": "automatic-control-system/station_status/reactant_info_2.xlsx",
+    "bytes": 10305
+  },
+  {
+    "path": "automatic-control-system/station_status/reactant_info_3.xlsx",
+    "bytes": 7052
+  },
+  {
+    "path": "automatic-control-system/station_status/reactant_info_4.xlsx",
+    "bytes": 7041
+  },
+  {
+    "path": "automatic-control-system/station_status/solid_chemical_remaining.xlsx",
+    "bytes": 7032
+  },
+  {
+    "path": "automatic-control-system/station_status/station_status.py",
+    "bytes": 9548
+  },
+  {
+    "path": "automatic-control-system/station_status/station_status.yaml",
+    "bytes": 2686
+  },
+  {
+    "path": "automatic-control-system/task/0923task.xlsx",
+    "bytes": 12106
+  },
+  {
+    "path": "automatic-control-system/task/task.xlsx",
+    "bytes": 8625
+  },
+  {
+    "path": "automatic-control-system/tests/test_replenishment.py",
+    "bytes": 1224
+  },
+  {
+    "path": "automatic-control-system/tests/test_server_bootstrap.py",
+    "bytes": 846
+  },
+  {
+    "path": "automatic-control-system/tests/test_station_server.py",
+    "bytes": 1565
+  },
+  {
+    "path": "automatic-control-system/tests/test_station_status.py",
+    "bytes": 2207
+  },
+  {
+    "path": "automatic-control-system/tests/test_task_selection.py",
+    "bytes": 2075
+  },
+  {
+    "path": "automatic-control-system/tests/test_task_utils.py",
+    "bytes": 5408
+  },
+  {
+    "path": "automatic-control-system/tests/__init__.py",
+    "bytes": 56
+  },
+  {
+    "path": "automatic-control-system/ui/info.ui",
+    "bytes": 36064
+  },
+  {
+    "path": "automatic-control-system/ui/info_window.py",
+    "bytes": 30077
+  },
+  {
+    "path": "automatic-control-system/ui/main_ui.py",
+    "bytes": 14451
+  },
+  {
+    "path": "automatic-control-system/ui/main_window.py",
+    "bytes": 83330
+  },
+  {
+    "path": "automatic-control-system/ui/main_window.ui",
+    "bytes": 95686
+  },
+  {
+    "path": "automatic-control-system/ui/tcp.ui",
+    "bytes": 10711
+  },
+  {
+    "path": "automatic-control-system/ui/tcp_window.py",
+    "bytes": 9193
+  },
+  {
+    "path": "automatic-control-system/utils/config.py",
+    "bytes": 1732
+  },
+  {
+    "path": "automatic-control-system/utils/config.yaml",
+    "bytes": 223
+  },
+  {
+    "path": "automatic-control-system/utils/confirm_status.py",
+    "bytes": 3050
+  },
+  {
+    "path": "automatic-control-system/utils/inventory.py",
+    "bytes": 4247
+  },
+  {
+    "path": "automatic-control-system/utils/task_processing.py",
+    "bytes": 3534
+  },
+  {
+    "path": "automatic-control-system/utils/task_utils.py",
+    "bytes": 990
+  },
+  {
+    "path": "automatic-control-system/utils/__init__.py",
+    "bytes": 0
+  },
+  {
+    "path": "automatic-control-system/workflow/replenishment.py",
+    "bytes": 1630
+  },
+  {
+    "path": "automatic-control-system/workflow/run_sample_workflow.py",
+    "bytes": 3492
+  },
+  {
+    "path": "automatic-control-system/workflow/__init__.py",
+    "bytes": 70
+  },
+  {
+    "path": "automatic-control-system/ui/controllers/info_presenter.py",
+    "bytes": 2310
+  },
+  {
+    "path": "automatic-control-system/ui/controllers/task_selection.py",
+    "bytes": 1481
+  },
+  {
+    "path": "automatic-control-system/ui/controllers/__init__.py",
+    "bytes": 61
+  },
+  {
+    "path": "automatic-control-system/ui/icon/charge.png",
+    "bytes": 138791
+  },
+  {
+    "path": "automatic-control-system/ui/icon/charging.png",
+    "bytes": 138791
+  },
+  {
+    "path": "automatic-control-system/ui/icon/chemistry.png",
+    "bytes": 231217
+  },
+  {
+    "path": "automatic-control-system/ui/icon/detail.png",
+    "bytes": 90364
+  },
+  {
+    "path": "automatic-control-system/ui/icon/file.png",
+    "bytes": 109131
+  },
+  {
+    "path": "automatic-control-system/ui/icon/info.png",
+    "bytes": 179288
+  },
+  {
+    "path": "automatic-control-system/ui/icon/link.png",
+    "bytes": 171764
+  },
+  {
+    "path": "automatic-control-system/ui/icon/liquid.png",
+    "bytes": 164591
+  },
+  {
+    "path": "automatic-control-system/ui/icon/liquid1.png",
+    "bytes": 9723
+  },
+  {
+    "path": "automatic-control-system/ui/icon/nmr.png",
+    "bytes": 262933
+  },
+  {
+    "path": "automatic-control-system/ui/icon/pause.png",
+    "bytes": 32471
+  },
+  {
+    "path": "automatic-control-system/ui/icon/peptide.png",
+    "bytes": 245144
+  },
+  {
+    "path": "automatic-control-system/ui/icon/reactor.png",
+    "bytes": 237816
+  },
+  {
+    "path": "automatic-control-system/ui/icon/recycle.png",
+    "bytes": 1780
+  },
+  {
+    "path": "automatic-control-system/ui/icon/robot.png",
+    "bytes": 6188
+  },
+  {
+    "path": "automatic-control-system/ui/icon/running.png",
+    "bytes": 161967
+  },
+  {
+    "path": "automatic-control-system/ui/icon/setting.png",
+    "bytes": 95439
+  },
+  {
+    "path": "automatic-control-system/ui/icon/solid.png",
+    "bytes": 135378
+  },
+  {
+    "path": "automatic-control-system/ui/icon/solid1.png",
+    "bytes": 4590
+  },
+  {
+    "path": "automatic-control-system/ui/icon/stop.png",
+    "bytes": 1794
+  },
+  {
+    "path": "automatic-control-system/ui/icon/transfer.png",
+    "bytes": 109820
+  },
+  {
+    "path": "automatic-control-system/ui/icon/unlink.png",
+    "bytes": 197062
+  }
+]

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>TCPSettings</class>
+ <widget class="QWidget" name="TCPSettings">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>0</width>
+    <height>0</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>8888</width>
+    <height>8888</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>TCP Setting</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>icon/setting.png</normaloff>icon/setting.png</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QWidget {
+border-radius: 5px; /* Set rounded corners */
+background-color: #ffffff; /* Set background color */
+}</string>
+  </property>
+  <widget class="QFrame" name="frame">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>270</width>
+     <height>194</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <strikeout>false</strikeout>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QFrame#frame {
+border-radius: 5px; /* Set rounded corners */
+background-color: #ecedee; /* Set background color */
+}</string>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+   <widget class="QFrame" name="frame_8">
+    <property name="geometry">
+     <rect>
+      <x>5</x>
+      <y>5</y>
+      <width>260</width>
+      <height>184</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <underline>false</underline>
+      <strikeout>false</strikeout>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">/* QLabel Default style */
+QLabel {
+    color:  #000000; /* Text color */
+    font-size: 20px; /* Font size */
+    border-radius: 5px; /* Rounded corners */
+	qproperty-alignment: 'AlignCenter';
+}
+QFrame#frame_8 {
+	background-color: #ffffff; /* Set background color */
+	border-radius: 5px;
+}
+QLineEdit {
+    color:  #000000; /* Text color */
+    font-size: 20px; /* Font size */
+    border-radius: 5px; /* Rounded corners */
+	qproperty-alignment: 'AlignCenter';
+    font-family: 'Microsoft YaHei'; /* Font set to Microsoft YaHei */
+    font-weight: bold; /* Set bold font */
+}
+QPushButton {
+    color:  #000000; /* Text color */
+    font-size: 20px; /* Font size */
+    border-radius: 5px; /* Rounded corners */
+    font-family: 'Microsoft YaHei'; /* Font set to Microsoft YaHei */
+    font-weight: bold; /* Set bold font */
+	border: 1px solid #000000
+}
+
+
+
+/* QPushButton Hover state */
+QPushButton:hover {
+    background-color: #ecedee; /* Dark blue background */
+    color: black; /* Hover stateWhite text */
+}
+
+/* QPushButton Pressed state */
+QPushButton:pressed {
+    background-color: #ecedee; /* Darker blue background when pressed */
+    color: black; /* Pressed stateWhite text */
+}</string>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::StyledPanel</enum>
+    </property>
+    <property name="frameShadow">
+     <enum>QFrame::Raised</enum>
+    </property>
+    <widget class="QLabel" name="label_15">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>52</y>
+       <width>50</width>
+       <height>32</height>
+      </rect>
+     </property>
+     <property name="sizePolicy">
+      <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="minimumSize">
+      <size>
+       <width>50</width>
+       <height>32</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>32</width>
+       <height>32</height>
+      </size>
+     </property>
+     <property name="font">
+      <font>
+       <family>Microsoft YaHei</family>
+       <pointsize>-1</pointsize>
+       <weight>75</weight>
+       <italic>false</italic>
+       <bold>true</bold>
+       <underline>false</underline>
+       <strikeout>false</strikeout>
+      </font>
+     </property>
+     <property name="text">
+      <string>IP : </string>
+     </property>
+     <property name="textFormat">
+      <enum>Qt::AutoText</enum>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_21">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>94</y>
+       <width>80</width>
+       <height>32</height>
+      </rect>
+     </property>
+     <property name="sizePolicy">
+      <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="minimumSize">
+      <size>
+       <width>0</width>
+       <height>0</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>200</width>
+       <height>16777215</height>
+      </size>
+     </property>
+     <property name="font">
+      <font>
+       <family>Microsoft YaHei</family>
+       <pointsize>-1</pointsize>
+       <weight>75</weight>
+       <italic>false</italic>
+       <bold>true</bold>
+       <underline>false</underline>
+       <strikeout>false</strikeout>
+      </font>
+     </property>
+     <property name="text">
+      <string>PORT :</string>
+     </property>
+     <property name="textFormat">
+      <enum>Qt::AutoText</enum>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="confirm">
+     <property name="geometry">
+      <rect>
+       <x>32</x>
+       <y>136</y>
+       <width>86</width>
+       <height>32</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Submit</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="cancel">
+     <property name="geometry">
+      <rect>
+       <x>142</x>
+       <y>136</y>
+       <width>86</width>
+       <height>32</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Cancel</string>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="i1">
+     <property name="geometry">
+      <rect>
+       <x>53</x>
+       <y>52</y>
+       <width>40</width>
+       <height>32</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>255</string>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="i2">
+     <property name="geometry">
+      <rect>
+       <x>103</x>
+       <y>52</y>
+       <width>40</width>
+       <height>32</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>255</string>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="i3">
+     <property name="geometry">
+      <rect>
+       <x>153</x>
+       <y>52</y>
+       <width>40</width>
+       <height>32</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>255</string>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="i4">
+     <property name="geometry">
+      <rect>
+       <x>203</x>
+       <y>52</y>
+       <width>40</width>
+       <height>32</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>255</string>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="port">
+     <property name="geometry">
+      <rect>
+       <x>87</x>
+       <y>94</y>
+       <width>70</width>
+       <height>32</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>65536</string>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="lineEdit_10">
+     <property name="geometry">
+      <rect>
+       <x>93</x>
+       <y>52</y>
+       <width>10</width>
+       <height>32</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>.</string>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="lineEdit_11">
+     <property name="geometry">
+      <rect>
+       <x>143</x>
+       <y>52</y>
+       <width>10</width>
+       <height>32</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>.</string>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="lineEdit_12">
+     <property name="geometry">
+      <rect>
+       <x>193</x>
+       <y>52</y>
+       <width>10</width>
+       <height>32</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>.</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_22">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>10</y>
+       <width>161</width>
+       <height>32</height>
+      </rect>
+     </property>
+     <property name="sizePolicy">
+      <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="minimumSize">
+      <size>
+       <width>0</width>
+       <height>0</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>200</width>
+       <height>16777215</height>
+      </size>
+     </property>
+     <property name="font">
+      <font>
+       <family>Microsoft YaHei</family>
+       <pointsize>-1</pointsize>
+       <weight>75</weight>
+       <italic>false</italic>
+       <bold>true</bold>
+       <underline>false</underline>
+       <strikeout>false</strikeout>
+      </font>
+     </property>
+     <property name="text">
+      <string>Socket Settings</string>
+     </property>
+     <property name="textFormat">
+      <enum>Qt::AutoText</enum>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

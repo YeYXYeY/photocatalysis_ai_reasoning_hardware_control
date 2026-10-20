@@ -1,0 +1,940 @@
+[
+  {
+    "path": "automatic-control-system/station_status/liquid_chemical_remaining.xlsx",
+    "source_path": "automatic-control-system/station_status/liquid_chemical_remaining.xlsx",
+    "original_sha256": "9f1956596f45481a154eddc01d4d08454ad82cbcef3924098bd622d75d650cd8",
+    "release_sha256": "e6207ed8f6f9e69de58ce875a2ca09ed753c5f750992f3bae34db1bfc7ede4de",
+    "changed_package_members": [
+      "xl/theme/theme1.xml"
+    ],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 51,
+        "columns": 3,
+        "header": [
+          "NO",
+          "Chemicals",
+          "Remaining"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "automatic-control-system/station_status/nmr_prepare.xlsx",
+    "source_path": "automatic-control-system/station_status/nmr_prepare.xlsx",
+    "original_sha256": "0bc6fa5a74f99b5de6262d5e17b7736a7c1a37d90447c2aff3ef66f155f3b610",
+    "release_sha256": "ee65c201f911ca9ccf887423ca9cba324801585bf404dae3388423063503f23b",
+    "changed_package_members": [
+      "xl/theme/theme1.xml",
+      "xl/styles.xml"
+    ],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 29,
+        "columns": 3,
+        "header": [
+          "NO",
+          "G5",
+          "G6"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "automatic-control-system/station_status/reactant_info_1.xlsx",
+    "source_path": "automatic-control-system/station_status/reactant_info_1.xlsx",
+    "original_sha256": "116dc0779b6264aa357329cbb5a7baad72f08c9603e531efd56e0bb7f79a28a0",
+    "release_sha256": "109549f91c163dc1f22079fdf2bd0ecfa95733a43471e3d6845e5ce1b840b65f",
+    "changed_package_members": [
+      "xl/theme/theme1.xml"
+    ],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 51,
+        "columns": 3,
+        "header": [
+          "NO",
+          "Chemicals",
+          "Replaceable"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "automatic-control-system/station_status/reactant_info_2.xlsx",
+    "source_path": "automatic-control-system/station_status/reactant_info_2.xlsx",
+    "original_sha256": "f17b1c64e202882f6d694e16b96899ed30de31561eb32655fcd3cf6207f9f135",
+    "release_sha256": "fd8d5d5d9d6eb035f535b319e52a82e3868050152641bb6cf150962e2daee053",
+    "changed_package_members": [
+      "xl/theme/theme1.xml",
+      "xl/styles.xml",
+      "docProps/app.xml"
+    ],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 51,
+        "columns": 3,
+        "header": [
+          "NO",
+          "Chemicals",
+          "Replaceable"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "automatic-control-system/station_status/reactant_info_3.xlsx",
+    "source_path": "automatic-control-system/station_status/reactant_info_3.xlsx",
+    "original_sha256": "5c7d2b4bc0410e7625a3a92e1ba101aa85751a54927d48d0a241c1e1e8dc6493",
+    "release_sha256": "b740612199591170101315298367ce4624621f767552943da7d56b67ce14cf12",
+    "changed_package_members": [
+      "xl/theme/theme1.xml"
+    ],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 51,
+        "columns": 3,
+        "header": [
+          "NO",
+          "Chemicals",
+          "Replaceable"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "automatic-control-system/station_status/reactant_info_4.xlsx",
+    "source_path": "automatic-control-system/station_status/reactant_info_4.xlsx",
+    "original_sha256": "116d312a7eabbe8172b53db210279bd9f26d236b2a255ab346d0a16f3484b8bd",
+    "release_sha256": "c304832d30fc518943d09ae1b26e8124ae6bb974ceed222d009ef79315eedcd2",
+    "changed_package_members": [
+      "xl/theme/theme1.xml"
+    ],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 51,
+        "columns": 3,
+        "header": [
+          "NO",
+          "Chemicals",
+          "Replaceable"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "automatic-control-system/station_status/solid_chemical_remaining.xlsx",
+    "source_path": "automatic-control-system/station_status/solid_chemical_remaining.xlsx",
+    "original_sha256": "5eeab7a48d4a0b8e1cfc24db54270018220a82f1fa8b2d81401c6bbd5f972180",
+    "release_sha256": "acf19f94afe891ff400b80abc746150b82a69314884f31d692e948e2ff70922b",
+    "changed_package_members": [
+      "xl/theme/theme1.xml"
+    ],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 51,
+        "columns": 3,
+        "header": [
+          "NO",
+          "Chemicals",
+          "Remaining"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "examples/operational_tasks/hub_task.xlsx",
+    "source_path": "automatic-control-system/task/0923task.xlsx",
+    "original_sha256": "1e16233d941a397cef70e75d92675f588c9eed14b6aaf281edf3c27f9b4bca3f",
+    "release_sha256": "2a5c144c575641b0afbee9f82133950f8a5c2f79bec082698a5a005a2674c730",
+    "changed_package_members": [
+      "xl/theme/theme1.xml",
+      "xl/styles.xml",
+      "docProps/app.xml"
+    ],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 26,
+        "columns": 39,
+        "header": [
+          "NO",
+          "A1",
+          "A2",
+          "B1",
+          "C1",
+          "C2",
+          "C3",
+          "C4",
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "D1",
+          "E1",
+          "E2",
+          "E3",
+          "E4",
+          "F1",
+          "F2",
+          "F3",
+          "G1",
+          "G2",
+          "G3",
+          "G4",
+          "H1",
+          "H2",
+          "H3",
+          "H4",
+          "I1",
+          "I2",
+          "I3",
+          "J1",
+          "J2",
+          "J3",
+          "J4",
+          "J5",
+          "J6",
+          "J7",
+          "J8"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "examples/operational_tasks/hub_task_alternative.xlsx",
+    "source_path": "automatic-control-system/task/task.xlsx",
+    "original_sha256": "c8a52f9b1ede99799035880b2b49a9ef395d60e2e4582635bc673c79f1b19b89",
+    "release_sha256": "de3af2929b5681941c0f2ac9c80cfab21370de3479f154eae5db7939a5d08e28",
+    "changed_package_members": [
+      "xl/theme/theme1.xml",
+      "xl/styles.xml",
+      "docProps/core.xml",
+      "docProps/app.xml"
+    ],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 8,
+        "columns": 3,
+        "header": [
+          "A",
+          "B",
+          "C"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "examples/operational_tasks/liquid_task.xlsx",
+    "source_path": "liquid-handling-workstation/task/250916task.xlsx",
+    "original_sha256": "f250b58c0e313557fb665fdd96501ffea1d8ac7bdf52a892f9c8637388103f20",
+    "release_sha256": "f250b58c0e313557fb665fdd96501ffea1d8ac7bdf52a892f9c8637388103f20",
+    "changed_package_members": [],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 19,
+        "columns": 33,
+        "header": [
+          "NO",
+          "A1",
+          "A2",
+          "B1",
+          "C1",
+          "C2",
+          "C3",
+          "C4",
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "D1",
+          "E1",
+          "E2",
+          "E3",
+          "E4",
+          "G1",
+          "G2",
+          "G3",
+          "G4",
+          "H1",
+          "H2",
+          "H3",
+          "H4",
+          "J1",
+          "J2",
+          "J3",
+          "J4",
+          "J5",
+          "J6",
+          "J7",
+          "J8"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "examples/operational_tasks/liquid_task_alternative.xlsx",
+    "source_path": "liquid-handling-workstation/task/task.xlsx",
+    "original_sha256": "22e30282b1247440720c3300e7baa8c88b1e1a03cf41eac74fb2ac047900e658",
+    "release_sha256": "22e30282b1247440720c3300e7baa8c88b1e1a03cf41eac74fb2ac047900e658",
+    "changed_package_members": [],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 7,
+        "columns": 21,
+        "header": [
+          "NO",
+          "A1",
+          "B1",
+          "C1",
+          "C2",
+          "C3",
+          "C4",
+          "D1",
+          "E1",
+          "E2",
+          "E3",
+          "E4",
+          "F1",
+          "F2",
+          "F3",
+          "G1",
+          "G2",
+          "G3",
+          "H1",
+          "H2",
+          "H3"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "examples/operational_tasks/solid_task.xlsx",
+    "source_path": "solid_handling_station/task/task.xlsx",
+    "original_sha256": "131815a0890d003f940928a1b7799267b7822af73b0444331ef351db67ef3b29",
+    "release_sha256": "541cb2bb2b965eece10ed33ca378926d680e1e401ec485555dc82b60004b6dae",
+    "changed_package_members": [
+      "xl/theme/theme1.xml",
+      "xl/styles.xml"
+    ],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 25,
+        "columns": 37,
+        "header": [
+          "NO",
+          "F2",
+          "F3",
+          "I1",
+          "I2",
+          "I3",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ]
+  },
+  {
+    "path": "examples/operational_tasks/solid_task_alternative.xlsx",
+    "source_path": "solid_handling_station/task/0621task.xlsx",
+    "original_sha256": "b9325e27d3ed031b172c6a836aa6d2eedd1d85627b7b5c068aa5c4e44abf54c3",
+    "release_sha256": "cddbd5c5dbb703ddf793b1995e2dec60e5c137f76ff52ae227b525295f62c795",
+    "changed_package_members": [
+      "xl/theme/theme1.xml",
+      "xl/styles.xml",
+      "docProps/core.xml",
+      "docProps/app.xml"
+    ],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 25,
+        "columns": 25,
+        "header": [
+          "NO",
+          "A1",
+          "B1",
+          "C1",
+          "C2",
+          "C3",
+          "C4",
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "D2",
+          "E1",
+          "E2",
+          "E3",
+          "E4",
+          "F1",
+          "F2",
+          "F3",
+          "G1",
+          "H1",
+          "H2",
+          "I1",
+          "I2",
+          "I3"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/clean_for_gripper.xlsx",
+    "source_path": "liquid-handling-workstation/coordinates/clean_for_gripper.xlsx",
+    "original_sha256": "261749dab3994abcedde6f00d38b0a94f1778b3efc86501aa3d9b1a5645295e1",
+    "release_sha256": "261749dab3994abcedde6f00d38b0a94f1778b3efc86501aa3d9b1a5645295e1",
+    "changed_package_members": [],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 10,
+        "columns": 6,
+        "header": [
+          "usage",
+          "X",
+          "Y",
+          "Z",
+          "addr",
+          null
+        ]
+      }
+    ]
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/dosing_head.xlsx",
+    "source_path": "liquid-handling-workstation/coordinates/dosing_head.xlsx",
+    "original_sha256": "f10cefad64418e6bcbc2de5bf2e9c8ecfb61e60bb85a2a03ea5cd28a50d3afbc",
+    "release_sha256": "f10cefad64418e6bcbc2de5bf2e9c8ecfb61e60bb85a2a03ea5cd28a50d3afbc",
+    "changed_package_members": [],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 7,
+        "columns": 6,
+        "header": [
+          "usage",
+          "X",
+          "Y",
+          "Z",
+          "addr",
+          null
+        ]
+      }
+    ]
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/gripper.xlsx",
+    "source_path": "liquid-handling-workstation/coordinates/gripper.xlsx",
+    "original_sha256": "d776f3938d54a6261cd0dded7805d28bcf8e5f87fcfa4ac529bf8cde5774857d",
+    "release_sha256": "d776f3938d54a6261cd0dded7805d28bcf8e5f87fcfa4ac529bf8cde5774857d",
+    "changed_package_members": [],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 12,
+        "columns": 6,
+        "header": [
+          "usage",
+          "X",
+          "Y",
+          "Z",
+          "Description",
+          null
+        ]
+      }
+    ]
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/nmr_prepare.xlsx",
+    "source_path": "liquid-handling-workstation/coordinates/nmr_prepare.xlsx",
+    "original_sha256": "39dbbd5472e83f9bf90a457365bf6d5497a8c2b94791de92d7729cc7cad29155",
+    "release_sha256": "39dbbd5472e83f9bf90a457365bf6d5497a8c2b94791de92d7729cc7cad29155",
+    "changed_package_members": [],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 29,
+        "columns": 7,
+        "header": [
+          "NO",
+          "G5",
+          "G6",
+          "D1",
+          "D2",
+          "D3",
+          null
+        ]
+      }
+    ]
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/reaction_for_dosing.xlsx",
+    "source_path": "liquid-handling-workstation/coordinates/reaction_for_dosing.xlsx",
+    "original_sha256": "3cadcd256f5813a851df422d799ff633e54f27a532547f7e2ef0ee36bea44dcd",
+    "release_sha256": "3cadcd256f5813a851df422d799ff633e54f27a532547f7e2ef0ee36bea44dcd",
+    "changed_package_members": [],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 32,
+        "columns": 12,
+        "header": [
+          "NO",
+          "X",
+          "Y",
+          "Z",
+          "ZAfter",
+          "ZBack",
+          "Cap",
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ]
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/reaction_for_dosing_wzy.xlsx",
+    "source_path": "liquid-handling-workstation/coordinates/reaction_for_dosing_wzy.xlsx",
+    "original_sha256": "4598c96809c80cfc89e0cacf239d7986c7fa25dd357cdb7b78587236aaa30089",
+    "release_sha256": "4598c96809c80cfc89e0cacf239d7986c7fa25dd357cdb7b78587236aaa30089",
+    "changed_package_members": [],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 32,
+        "columns": 12,
+        "header": [
+          "NO",
+          "X",
+          "Y",
+          "Z",
+          "ZAfter",
+          "ZBack",
+          "Cap",
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ]
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/reaction_for_gripper.xlsx",
+    "source_path": "liquid-handling-workstation/coordinates/reaction_for_gripper.xlsx",
+    "original_sha256": "f6d725af9418eff77b31532bd6b9dcd6540027d8a8a5e81ebbe8bec9b514edad",
+    "release_sha256": "f6d725af9418eff77b31532bd6b9dcd6540027d8a8a5e81ebbe8bec9b514edad",
+    "changed_package_members": [],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 32,
+        "columns": 10,
+        "header": [
+          "NO",
+          "X",
+          "Y",
+          "Z",
+          "Cap",
+          "XC",
+          "YC",
+          "ZC",
+          "EMPTY",
+          null
+        ]
+      }
+    ]
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/reaction_for_pump.xlsx",
+    "source_path": "liquid-handling-workstation/coordinates/reaction_for_pump.xlsx",
+    "original_sha256": "748f2b0e21a38d1a5df2954734bd87f9c4fba088ff1788a87a5baf42a76d1838",
+    "release_sha256": "748f2b0e21a38d1a5df2954734bd87f9c4fba088ff1788a87a5baf42a76d1838",
+    "changed_package_members": [],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 37,
+        "columns": 10,
+        "header": [
+          "NO",
+          "X",
+          "Y",
+          "Z",
+          "Cap",
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ]
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/reaction_for_pump2.xlsx",
+    "source_path": "liquid-handling-workstation/coordinates/reaction_for_pump2.xlsx",
+    "original_sha256": "2725b79db916e874b173e9ee9b1adfa7dce237bf0d4637b814e98d93eb9e6abf",
+    "release_sha256": "2725b79db916e874b173e9ee9b1adfa7dce237bf0d4637b814e98d93eb9e6abf",
+    "changed_package_members": [],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 37,
+        "columns": 10,
+        "header": [
+          "NO",
+          "X",
+          "Y",
+          "Z",
+          "Cap",
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ]
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/reagent.xlsx",
+    "source_path": "liquid-handling-workstation/coordinates/reagent.xlsx",
+    "original_sha256": "1a6eea4d9a60387b357325c59a3fd75d07f311265c5220dd5933c1ec8a370865",
+    "release_sha256": "1a6eea4d9a60387b357325c59a3fd75d07f311265c5220dd5933c1ec8a370865",
+    "changed_package_members": [],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 51,
+        "columns": 8,
+        "header": [
+          "NO",
+          "Chemicals",
+          "X",
+          "Y",
+          "Z",
+          "H",
+          "Cap",
+          null
+        ]
+      }
+    ]
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/reagent_peptide.xlsx",
+    "source_path": "liquid-handling-workstation/coordinates/reagent_peptide.xlsx",
+    "original_sha256": "2163a727b2e83daa1677aedbee368ea0b84214b88895be7eb3c2f1118c866dd4",
+    "release_sha256": "2163a727b2e83daa1677aedbee368ea0b84214b88895be7eb3c2f1118c866dd4",
+    "changed_package_members": [],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 51,
+        "columns": 6,
+        "header": [
+          "NO",
+          "Chemicals",
+          "X",
+          "Y",
+          "Z",
+          "H"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/slot_for_gripper.xlsx",
+    "source_path": "liquid-handling-workstation/coordinates/slot_for_gripper.xlsx",
+    "original_sha256": "64166c74f5872544d2a64e040734488a8b15252ca07189c41508ba5c05f0be24",
+    "release_sha256": "64166c74f5872544d2a64e040734488a8b15252ca07189c41508ba5c05f0be24",
+    "changed_package_members": [],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 4,
+        "columns": 5,
+        "header": [
+          "usage",
+          "X",
+          "Y",
+          "Z",
+          null
+        ]
+      }
+    ]
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/slot_for_pump.xlsx",
+    "source_path": "liquid-handling-workstation/coordinates/slot_for_pump.xlsx",
+    "original_sha256": "56715a4ee09f2fb711a2669b2af9bf5f0749f1d46389aee1ea8758bc58aa2881",
+    "release_sha256": "56715a4ee09f2fb711a2669b2af9bf5f0749f1d46389aee1ea8758bc58aa2881",
+    "changed_package_members": [],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 4,
+        "columns": 4,
+        "header": [
+          "usage",
+          "X",
+          "Y",
+          "Z"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/tip_for_gripper.xlsx",
+    "source_path": "liquid-handling-workstation/coordinates/tip_for_gripper.xlsx",
+    "original_sha256": "acdf1b6d2ca1c640192573b626a89c352587a02b7db130a25eda1c43675036c7",
+    "release_sha256": "acdf1b6d2ca1c640192573b626a89c352587a02b7db130a25eda1c43675036c7",
+    "changed_package_members": [],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 33,
+        "columns": 6,
+        "header": [
+          "NO",
+          "X",
+          "Y",
+          "Z",
+          "Presence",
+          "Unnamed: 5"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/tip_for_pump.xlsx",
+    "source_path": "liquid-handling-workstation/coordinates/tip_for_pump.xlsx",
+    "original_sha256": "4ca3756e079dd9eafe7c7195101ebd7b67fe0a8195892949dbb06445f8780737",
+    "release_sha256": "4ca3756e079dd9eafe7c7195101ebd7b67fe0a8195892949dbb06445f8780737",
+    "changed_package_members": [],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 53,
+        "columns": 6,
+        "header": [
+          "NO",
+          "X",
+          "Y",
+          "Z",
+          "Presence",
+          "Unnamed: 5"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "solid_handling_station/coordinates/balance.xlsx",
+    "source_path": "solid_handling_station/coordinates/balance.xlsx",
+    "original_sha256": "34125835471bcc80331528be642651aa82bb497ed60951ddd5f928f86c207742",
+    "release_sha256": "ed7ae0c05e719d668fc051715968cd679c6ed0b55fc5cc146503a6b591b31788",
+    "changed_package_members": [
+      "xl/theme/theme1.xml"
+    ],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 4,
+        "columns": 6,
+        "header": [
+          "usage",
+          "X",
+          "Y",
+          "Z1",
+          "Z2",
+          "Z"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "solid_handling_station/coordinates/bottle_info.xlsx",
+    "source_path": "solid_handling_station/coordinates/bottle_info.xlsx",
+    "original_sha256": "3bfb826f30e6b6c96e9477cdb99e5b32be394ea0768de4aee9cb50c8efc8731a",
+    "release_sha256": "3bfb826f30e6b6c96e9477cdb99e5b32be394ea0768de4aee9cb50c8efc8731a",
+    "changed_package_members": [],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 29,
+        "columns": 7,
+        "header": [
+          "NO",
+          "X",
+          "Y",
+          "Z1",
+          "Z2",
+          "ZBack",
+          "isUsed"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "solid_handling_station/coordinates/database.xlsx",
+    "source_path": "solid_handling_station/coordinates/database.xlsx",
+    "original_sha256": "352af5d8393917ef170d32c0f43ff27e4b38019988f12b3a50604e6a2bfaaa62",
+    "release_sha256": "f21e968ac994e0b78f208d38df6082eea03a0962cd0631e957ae8a8212535ec6",
+    "changed_package_members": [
+      "xl/theme/theme1.xml",
+      "xl/styles.xml",
+      "docProps/core.xml",
+      "docProps/app.xml"
+    ],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 3,
+        "columns": 5,
+        "header": [
+          "Chemicals",
+          "CAS",
+          "Action",
+          "Average",
+          "Maximum"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "solid_handling_station/coordinates/head.xlsx",
+    "source_path": "solid_handling_station/coordinates/head.xlsx",
+    "original_sha256": "8aab60adda6423846dd40d1b03c4d05ada6278b40d9711a9c76e05745a95cb50",
+    "release_sha256": "0a995853c4dd3fc5ad8c75db8b132e81430c00266d0f6d63504e48decc77adeb",
+    "changed_package_members": [
+      "xl/theme/theme1.xml",
+      "xl/styles.xml"
+    ],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 28,
+        "columns": 14,
+        "header": [
+          "NO",
+          "Chemical",
+          "X",
+          "Y",
+          "Z1",
+          "Z1Up",
+          "Z2",
+          "Y1",
+          "Y1Ready",
+          "Y2",
+          "Y2Ready",
+          "init_pos",
+          "align_pos",
+          "action_pos"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "solid_handling_station/coordinates/reaction.xlsx",
+    "source_path": "solid_handling_station/coordinates/reaction.xlsx",
+    "original_sha256": "52d5e1c9c10b4d5da032e72578f1e8b94f87516c0723ca0f9b6771b8c49e5d3c",
+    "release_sha256": "0cfcd96db6fc455938bcab003688788ce674c417107757697c51b4565fe368f4",
+    "changed_package_members": [
+      "xl/theme/theme1.xml"
+    ],
+    "cells_formulas_and_sheet_xml_unchanged": true,
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_including_header": 29,
+        "columns": 6,
+        "header": [
+          "NO",
+          "X",
+          "Y",
+          "Z1",
+          "Z2",
+          "ZBack"
+        ]
+      }
+    ]
+  }
+]

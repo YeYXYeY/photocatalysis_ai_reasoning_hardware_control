@@ -1,0 +1,10 @@
+{
+  "mode": "software-only",
+  "input_kind": "synthetic illustration; not manuscript experimental data",
+  "bottle_ids": [1, 2],
+  "liquid_task_rows": 2,
+  "solid_task_rows": 2,
+  "liquid_consumption_uL": {"A1": 250.0, "B1": 75.0},
+  "solid_consumption_mg": {"F1": 2.5, "I1": 5.0},
+  "hardware_commands_sent": 0
+}

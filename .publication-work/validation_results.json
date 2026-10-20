@@ -1,0 +1,32 @@
+{
+  "python": "3.10.19",
+  "platform": "Windows-10-10.0.26300-SP0",
+  "machine": "AMD64",
+  "commands": [
+    {
+      "command": "python main.py demo",
+      "exit_code": 0,
+      "seconds": 0.676
+    },
+    {
+      "command": "python main.py test",
+      "exit_code": 0,
+      "seconds": 5.28
+    },
+    {
+      "command": "python main.py check",
+      "exit_code": 0,
+      "seconds": 0.358
+    },
+    {
+      "command": "python -m ruff check .",
+      "exit_code": 0,
+      "seconds": 0.118
+    },
+    {
+      "command": "python -m ruff format --check .",
+      "exit_code": 0,
+      "seconds": 0.133
+    }
+  ]
+}

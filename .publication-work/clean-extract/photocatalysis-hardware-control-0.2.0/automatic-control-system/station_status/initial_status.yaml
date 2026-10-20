@@ -1,0 +1,207 @@
+liquid_station:
+  bottle_rack:
+    bottle_rack_1: No Bottle Rack
+  chemical_remaining:
+    A1: 8000
+    A2: 8000
+    B1: 8000
+    C1: 8000
+    C2: 8000
+    C3: 8000
+    C4: 8000
+    C5: 8000
+    C6: 8000
+    C7: 8000
+    C8: 8000
+    E1: 8000
+    E2: 8000
+    E3: 8000
+    E4: 8000
+    G1: 8000
+    G2: 8000
+    G3: 8000
+    G4: 8000
+    G5: 8000
+    G6: 8000
+    H1: 8000
+    H2: 8000
+    H3: 8000
+    H4: 8000
+    J1: 8000
+    J2: 8000
+    J3: 8000
+    J4: 8000
+    J5: 8000
+    J6: 8000
+    J7: 8000
+    J8: 8000
+  running_status: Ready
+  tip_rack: full
+material_station:
+  bottle_rack:
+    bottle_rack_1: reactant_bottle_rack_4
+    bottle_rack_2: none
+  running_status: Ready
+  tip_rack:
+    tip_rack_1: full_tip_rack_1
+    tip_rack_2: full_tip_rack_2
+mobile_station:
+  bottle_rack:
+    bottle_rack_1: reaction_bottle_rack_1
+    bottle_rack_2: reaction_bottle_rack_2
+    bottle_rack_3: reactant_bottle_rack_1
+    bottle_rack_4: reactant_bottle_rack_2
+    bottle_rack_5: reactant_bottle_rack_3
+  running_status: Ready
+  tip_rack:
+    tip_rack_1: full_tip_rack_3
+    tip_rack_2: none
+rack_info:
+  reactant_bottle_rack_1:
+    A1: 
+    - 1
+    - 2
+    - 3
+    - 4
+    A2:
+    - 5
+    - 6
+    - 7
+    - 8
+    B1:
+    - 9
+    - 10
+    - 11
+    - 12
+    C1:
+    - 13
+    - 14
+    - 15
+    - 16
+    C5:
+    - 17
+    - 18
+    - 19
+    - 20
+    C6:
+    - 21
+    - 22
+    - 23
+    - 24
+    C8:
+    - 25
+    - 26
+    - 27
+    - 28
+  reactant_bottle_rack_2:
+    E1:
+    - 1
+    - 2
+    - 3
+    - 4
+    E2:
+    - 5
+    - 6
+    - 7
+    - 8
+    E4:
+    - 9
+    - 10
+    - 11
+    - 12
+    G1:
+    - 13
+    - 14
+    - 15
+    - 16
+    G2:
+    - 17
+    - 18
+    - 19
+    - 20
+    G3:
+    - 21
+    - 22
+    - 23
+    - 24
+    G4:
+    - 25
+    - 26
+    - 27
+    - 28
+  reactant_bottle_rack_3:
+    G5:
+    - 1
+    - 2
+    - 3
+    - 4
+    G6:
+    - 5
+    - 6
+    - 7
+    - 8
+    H1:
+    - 9
+    - 10
+    - 11
+    - 12
+    H2:
+    - 13
+    - 14
+    - 15
+    - 16
+    H3:
+    - 17
+    - 18
+    - 19
+    - 20
+    H4:
+    - 21
+    - 22
+    - 23
+    - 24
+  reactant_bottle_rack_4:
+    C2:
+    - 1
+    C3:
+    - 2
+    C4:
+    - 3
+    C7:
+    - 4
+    E3:
+    - 5
+    J1:
+    - 6
+    J2:
+    - 7
+    J3:
+    - 8
+    J4:
+    - 9
+    J5:
+    - 10
+    J6:
+    - 11
+    J7:
+    - 12
+    J8:
+    - 13
+reactor_station:
+  bottle_rack:
+    bottle_rack_1: No Bottle Rack
+  running_status: Ready
+solid_station:
+  bottle_rack:
+    bottle_rack_1: No Bottle Rack
+  chemical_remaining:
+    F2: 10000
+    F3: 10000
+    I1: 10000
+    I2: 10000
+    I3: 10000
+  running_status: Ready
+peptide_station:
+  bottle_rack:
+    bottle_rack_1: No Bottle Rack
+  running_status: Ready

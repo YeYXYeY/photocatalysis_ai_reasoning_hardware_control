@@ -1,0 +1,1617 @@
+[
+  {
+    "path": "solid_handling_station/main copy.py",
+    "bytes": 6577,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "solid_handling_station/main240703.py",
+    "bytes": 4802,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "solid_handling_station/main_test.py",
+    "bytes": 5679,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "solid_handling_station/motion.log",
+    "bytes": 290,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/test.log",
+    "bytes": 684,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/.vscode/launch.json",
+    "bytes": 599,
+    "reason": "Local editor configuration"
+  },
+  {
+    "path": "solid_handling_station/.vscode/settings.json",
+    "bytes": 155,
+    "reason": "Local editor configuration"
+  },
+  {
+    "path": "solid_handling_station/devices/motion copy.py",
+    "bytes": 30901,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "solid_handling_station/devices/motion.log",
+    "bytes": 29376,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/devices/Sartorius.py",
+    "bytes": 2183,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "solid_handling_station/devices/weighing_mk210.py",
+    "bytes": 7256,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "solid_handling_station/log/202407081953.log",
+    "bytes": 74,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/log/202407082129.log",
+    "bytes": 925,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_23_20_56_35.log",
+    "bytes": 244,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_23_21_29_54.log",
+    "bytes": 168,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_23_21_30_49.log",
+    "bytes": 168,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_23_21_31_27.log",
+    "bytes": 168,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_24_15_34_40.log",
+    "bytes": 168,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_24_15_35_51.log",
+    "bytes": 168,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_24_15_44_04.log",
+    "bytes": 168,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_24_15_48_31.log",
+    "bytes": 168,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_10_59_04.log",
+    "bytes": 413,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_15_44_47.log",
+    "bytes": 337,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_15_45_59.log",
+    "bytes": 29713,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_15_48_00.log",
+    "bytes": 30568,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_01_14.log",
+    "bytes": 31315,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_02_03.log",
+    "bytes": 31315,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_03_57.log",
+    "bytes": 31165,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_05_38.log",
+    "bytes": 24325,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_09_49.log",
+    "bytes": 22885,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_20_53.log",
+    "bytes": 23065,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_21_11.log",
+    "bytes": 23075,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_23_33.log",
+    "bytes": 23355,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_25_23.log",
+    "bytes": 23355,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_28_09.log",
+    "bytes": 247,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_50_07.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_51_02.log",
+    "bytes": 315,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_16_55_52.log",
+    "bytes": 247,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_17_00_06.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_17_00_20.log",
+    "bytes": 266,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_17_05_01.log",
+    "bytes": 423,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_17_07_06.log",
+    "bytes": 247,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_17_27_31.log",
+    "bytes": 145,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_19_27_14.log",
+    "bytes": 145,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_19_27_51.log",
+    "bytes": 283,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_19_29_18.log",
+    "bytes": 1178,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_19_31_50.log",
+    "bytes": 1748,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_19_38_30.log",
+    "bytes": 283,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_19_39_49.log",
+    "bytes": 1819,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_19_59_52.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_20_00_37.log",
+    "bytes": 1893,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_20_07_12.log",
+    "bytes": 1343,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_20_11_47.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_23_55_18.log",
+    "bytes": 358,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_25_23_57_46.log",
+    "bytes": 772,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_04_14.log",
+    "bytes": 314,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_05_38.log",
+    "bytes": 1117,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_18_01.log",
+    "bytes": 1557,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_20_18.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_23_01.log",
+    "bytes": 512,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_27_12.log",
+    "bytes": 1924,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_38_48.log",
+    "bytes": 597,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_43_49.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_44_06.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_44_25.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_45_05.log",
+    "bytes": 651,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_00_51_54.log",
+    "bytes": 896,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_01_01_04.log",
+    "bytes": 1572,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_01_07_32.log",
+    "bytes": 1344,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_13_50_18.log",
+    "bytes": 1310,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_13_57_52.log",
+    "bytes": 358,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_00_22.log",
+    "bytes": 358,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_02_48.log",
+    "bytes": 358,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_04_06.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_04_34.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_05_03.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_05_08.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_05_12.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_05_15.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_06_20.log",
+    "bytes": 358,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_08_31.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_11_40.log",
+    "bytes": 736,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_19_58.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_20_22.log",
+    "bytes": 650,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_24_07.log",
+    "bytes": 2114,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_41_46.log",
+    "bytes": 358,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_45_28.log",
+    "bytes": 358,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_47_45.log",
+    "bytes": 5654,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_14_57_23.log",
+    "bytes": 1220,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_15_04_28.log",
+    "bytes": 12269,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_15_32_01.log",
+    "bytes": 1285,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_15_38_36.log",
+    "bytes": 12547,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_15_53_55.log",
+    "bytes": 1268,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_15_55_39.log",
+    "bytes": 11863,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_16_02_31.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_16_03_34.log",
+    "bytes": 1333,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_16_05_50.log",
+    "bytes": 5070,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_16_11_57.log",
+    "bytes": 17181,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_16_39_13.log",
+    "bytes": 6492,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_16_47_37.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_16_48_31.log",
+    "bytes": 1110,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_16_55_01.log",
+    "bytes": 427,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_16_56_54.log",
+    "bytes": 829,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_01_26.log",
+    "bytes": 4531,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_06_22.log",
+    "bytes": 4899,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_13_14.log",
+    "bytes": 3097,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_34_37.log",
+    "bytes": 4952,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_47_47.log",
+    "bytes": 268,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_48_09.log",
+    "bytes": 667,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_49_51.log",
+    "bytes": 17139,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_52_30.log",
+    "bytes": 1042,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_57_11.log",
+    "bytes": 1233,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_59_24.log",
+    "bytes": 472,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_17_59_37.log",
+    "bytes": 4385,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_18_08_01.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_18_08_05.log",
+    "bytes": 21872,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_18_49_40.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_18_49_51.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_18_50_06.log",
+    "bytes": 2382,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_18_58_07.log",
+    "bytes": 1117,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_19_01_14.log",
+    "bytes": 11571,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_19_20_34.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_00_16.log",
+    "bytes": 1080,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_01_20.log",
+    "bytes": 274,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_01_49.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_09_34.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_10_54.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_20_53.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_25_37.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_26_40.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_28_44.log",
+    "bytes": 3559,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_26_23_41_43.log",
+    "bytes": 5302,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_27_09_08_51.log",
+    "bytes": 4855,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_27_09_43_15.log",
+    "bytes": 145,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_27_09_43_32.log",
+    "bytes": 2882,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_27_09_48_35.log",
+    "bytes": 7663,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_27_09_58_02.log",
+    "bytes": 1117,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_06_27_10_06_26.log",
+    "bytes": 72200,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_20_08_49.log",
+    "bytes": 1748,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_20_13_54.log",
+    "bytes": 9855,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_20_34_01.log",
+    "bytes": 15479,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_21_24_09.log",
+    "bytes": 1907,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_21_27_06.log",
+    "bytes": 682,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_21_27_21.log",
+    "bytes": 1717,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_21_29_21.log",
+    "bytes": 10221,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_21_46_36.log",
+    "bytes": 4432,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_01_26.log",
+    "bytes": 1117,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_07_50.log",
+    "bytes": 472,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_08_05.log",
+    "bytes": 1257,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_11_46.log",
+    "bytes": 1685,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_15_25.log",
+    "bytes": 1708,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_23_25.log",
+    "bytes": 1966,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_29_33.log",
+    "bytes": 2184,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_38_26.log",
+    "bytes": 732,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_38_56.log",
+    "bytes": 20634607,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_22_42_55.log",
+    "bytes": 9181,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_23_06_31.log",
+    "bytes": 722,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_23_07_19.log",
+    "bytes": 722,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_23_07_45.log",
+    "bytes": 722,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_23_09_06.log",
+    "bytes": 869,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_23_11_18.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_23_12_03.log",
+    "bytes": 1698,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_01_23_14_57.log",
+    "bytes": 8140,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_00_47_24.log",
+    "bytes": 23516,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_01_42_14.log",
+    "bytes": 5017,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_05_15_12.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_05_15_46.log",
+    "bytes": 46934,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_06_24_45.log",
+    "bytes": 50084,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_14_34_22.log",
+    "bytes": 13899,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_14_53_04.log",
+    "bytes": 7296,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_15_05_29.log",
+    "bytes": 7721,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_15_19_19.log",
+    "bytes": 4742,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_02_15_25_09.log",
+    "bytes": 1246,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_04_05_23_07.log",
+    "bytes": 590,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_04_05_25_02.log",
+    "bytes": 3175,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_04_05_29_26.log",
+    "bytes": 2297,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_04_15_31_16.log",
+    "bytes": 1263,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_04_19_41_43.log",
+    "bytes": 5810,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_04_20_33_00.log",
+    "bytes": 4503,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_16_40_01.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_16_41_27.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_16_42_14.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_16_54_04.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_16_54_26.log",
+    "bytes": 1113,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_16_58_00.log",
+    "bytes": 387,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_16_58_15.log",
+    "bytes": 6767,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_17_10_44.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_17_11_24.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_17_14_47.log",
+    "bytes": 579,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_17_16_31.log",
+    "bytes": 28750,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_18_51_58.log",
+    "bytes": 8345,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_19_08_48.log",
+    "bytes": 14745,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_08_21_58_51.log",
+    "bytes": 4921,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_16_04_33.log",
+    "bytes": 50561,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_17_53_12.log",
+    "bytes": 779,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_17_54_08.log",
+    "bytes": 14802,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_18_19_17.log",
+    "bytes": 2209,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_19_26_31.log",
+    "bytes": 344,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_19_26_48.log",
+    "bytes": 779,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_19_27_50.log",
+    "bytes": 51108,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_20_57_52.log",
+    "bytes": 344,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_20_58_02.log",
+    "bytes": 779,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_09_20_59_27.log",
+    "bytes": 6414,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_11_22_56_27.log",
+    "bytes": 325,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_11_22_56_36.log",
+    "bytes": 296,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_11_22_57_26.log",
+    "bytes": 296,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_11_23_45_33.log",
+    "bytes": 7380,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_12_00_02_12.log",
+    "bytes": 268,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_12_00_02_56.log",
+    "bytes": 6158,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_12_00_20_52.log",
+    "bytes": 9356,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_12_00_30_43.log",
+    "bytes": 198,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_12_00_30_51.log",
+    "bytes": 296,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_12_00_32_08.log",
+    "bytes": 5238,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_12_00_42_11.log",
+    "bytes": 6965,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_12_01_00_26.log",
+    "bytes": 37525,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/logs/2024_07_12_19_21_02.log",
+    "bytes": 1818,
+    "reason": "Operational log; original retained in the local backup"
+  },
+  {
+    "path": "solid_handling_station/main/main1022.py",
+    "bytes": 8686,
+    "reason": "Historical entrypoint; active entrypoint is main.py"
+  },
+  {
+    "path": "solid_handling_station/main/main1031.py",
+    "bytes": 4175,
+    "reason": "Historical entrypoint; active entrypoint is main.py"
+  },
+  {
+    "path": "solid_handling_station/main/main1121.py",
+    "bytes": 5607,
+    "reason": "Historical entrypoint; active entrypoint is main.py"
+  },
+  {
+    "path": "solid_handling_station/main/main1122.py",
+    "bytes": 1147,
+    "reason": "Historical entrypoint; active entrypoint is main.py"
+  },
+  {
+    "path": "solid_handling_station/server/liquid_station_server.py",
+    "bytes": 1148,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "solid_handling_station/server/mobile_robot_server.py",
+    "bytes": 1144,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "solid_handling_station/server/peptide_synthesis_server.py",
+    "bytes": 1154,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "solid_handling_station/server/reactor_station_server.py",
+    "bytes": 946,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "solid_handling_station/test/test.py",
+    "bytes": 21,
+    "reason": "Exploratory scripts, some operate hardware on import; replaced by isolated tests"
+  },
+  {
+    "path": "solid_handling_station/test/test.xlsx",
+    "bytes": 5498,
+    "reason": "Exploratory scripts, some operate hardware on import; replaced by isolated tests"
+  },
+  {
+    "path": "solid_handling_station/test/test240123.py",
+    "bytes": 2310,
+    "reason": "Exploratory scripts, some operate hardware on import; replaced by isolated tests"
+  },
+  {
+    "path": "solid_handling_station/test/test_condition.py",
+    "bytes": 599,
+    "reason": "Exploratory scripts, some operate hardware on import; replaced by isolated tests"
+  },
+  {
+    "path": "solid_handling_station/test/test_dynamic_linear_regression.py",
+    "bytes": 2569,
+    "reason": "Exploratory scripts, some operate hardware on import; replaced by isolated tests"
+  },
+  {
+    "path": "solid_handling_station/test/test_file.py",
+    "bytes": 1684,
+    "reason": "Exploratory scripts, some operate hardware on import; replaced by isolated tests"
+  },
+  {
+    "path": "solid_handling_station/test/test_multi_thread.py",
+    "bytes": 7053,
+    "reason": "Exploratory scripts, some operate hardware on import; replaced by isolated tests"
+  },
+  {
+    "path": "solid_handling_station/test/test_threading.py",
+    "bytes": 4627,
+    "reason": "Exploratory scripts, some operate hardware on import; replaced by isolated tests"
+  },
+  {
+    "path": "solid_handling_station/test/test_threading2.py",
+    "bytes": 5194,
+    "reason": "Exploratory scripts, some operate hardware on import; replaced by isolated tests"
+  },
+  {
+    "path": "solid_handling_station/test/test_weighing.py",
+    "bytes": 3440,
+    "reason": "Exploratory scripts, some operate hardware on import; replaced by isolated tests"
+  },
+  {
+    "path": "solid_handling_station/utilities/line.py",
+    "bytes": 1377,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "solid_handling_station/utilities/record_executor_data.py",
+    "bytes": 2555,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "solid_handling_station/utilities/solid_weigh_mk210.py",
+    "bytes": 36826,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "solid_handling_station/utilities/solid_weigh_old.py",
+    "bytes": 16450,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "solid_handling_station/utils/send_email.py",
+    "bytes": 1647,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "solid_handling_station/utils/update_depth.py",
+    "bytes": 1152,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/config.cpython-310.pyc",
+    "bytes": 1734,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/email.cpython-312.pyc",
+    "bytes": 1771,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/split_task.cpython-310.pyc",
+    "bytes": 1356,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/split_task.cpython-312.pyc",
+    "bytes": 1547,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/station_info.cpython-310.pyc",
+    "bytes": 730,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/station_info.cpython-311.pyc",
+    "bytes": 720,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/station_info.cpython-312.pyc",
+    "bytes": 723,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/__init__.cpython-310.pyc",
+    "bytes": 154,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/__init__.cpython-311.pyc",
+    "bytes": 172,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/utils/__pycache__/__init__.cpython-312.pyc",
+    "bytes": 160,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/utilities/__pycache__/calc_crc.cpython-310.pyc",
+    "bytes": 989,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/utilities/__pycache__/calc_crc.cpython-311.pyc",
+    "bytes": 1678,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/utilities/__pycache__/config.cpython-310.pyc",
+    "bytes": 1452,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/utilities/__pycache__/dynamic_linear_regression.cpython-310.pyc",
+    "bytes": 3492,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/utilities/__pycache__/shared_variables.cpython-310.pyc",
+    "bytes": 480,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/utilities/__pycache__/solid_weigh.cpython-310.pyc",
+    "bytes": 15372,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/utilities/__pycache__/__init__.cpython-310.pyc",
+    "bytes": 180,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/utilities/__pycache__/__init__.cpython-311.pyc",
+    "bytes": 196,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/server/__pycache__/station_server.cpython-310.pyc",
+    "bytes": 4780,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/server/__pycache__/station_server.cpython-311.pyc",
+    "bytes": 10550,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/server/__pycache__/__init__.cpython-310.pyc",
+    "bytes": 177,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/server/__pycache__/__init__.cpython-311.pyc",
+    "bytes": 193,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/devices/__pycache__/motion.cpython-310.pyc",
+    "bytes": 16782,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/devices/__pycache__/weighing.cpython-310.pyc",
+    "bytes": 3798,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/devices/__pycache__/__init__.cpython-310.pyc",
+    "bytes": 178,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/client/__pycache__/station_info.cpython-310.pyc",
+    "bytes": 892,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "solid_handling_station/client/__pycache__/__init__.cpython-310.pyc",
+    "bytes": 177,
+    "reason": "Generated Python cache"
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/nmr_prepare copy.xlsx",
+    "bytes": 8157,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "liquid-handling-workstation/coordinates/test.py",
+    "bytes": 371,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "liquid-handling-workstation/utils/send_email.py",
+    "bytes": 1074,
+    "reason": "Unused prototype, redundant copy, or nonportable standalone script"
+  },
+  {
+    "path": "liquid-handling-workstation/devices/zmotion/zauxdll.dll",
+    "bytes": 4410880,
+    "reason": "Vendor runtime; redistribution terms not supplied; install separately"
+  },
+  {
+    "path": "liquid-handling-workstation/devices/zmotion/zmotion.dll",
+    "bytes": 3596288,
+    "reason": "Vendor runtime; redistribution terms not supplied; install separately"
+  },
+  {
+    "path": "solid_handling_station/task/202407040117.xlsx",
+    "bytes": 5516,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704011905.xlsx",
+    "bytes": 5516,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704011907.xlsx",
+    "bytes": 5516,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704011908.xlsx",
+    "bytes": 5516,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704012948.xlsx",
+    "bytes": 5516,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704013212.xlsx",
+    "bytes": 5515,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704013220.xlsx",
+    "bytes": 5515,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704013920.xlsx",
+    "bytes": 5515,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704014111.xlsx",
+    "bytes": 5515,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704014158.xlsx",
+    "bytes": 5516,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704014230.xlsx",
+    "bytes": 5515,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704014303.xlsx",
+    "bytes": 5515,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704014454.xlsx",
+    "bytes": 5516,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704014542.xlsx",
+    "bytes": 5516,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704014700.xlsx",
+    "bytes": 5516,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704045530.xlsx",
+    "bytes": 5515,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704050726.xlsx",
+    "bytes": 5515,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704050930.xlsx",
+    "bytes": 5515,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704051135.xlsx",
+    "bytes": 5516,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704051823.xlsx",
+    "bytes": 5515,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704051931.xlsx",
+    "bytes": 7007,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704052306.xlsx",
+    "bytes": 5515,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704052502.xlsx",
+    "bytes": 5449,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704052926.xlsx",
+    "bytes": 5398,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704153116.xlsx",
+    "bytes": 4984,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704194142.xlsx",
+    "bytes": 4983,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704203300.xlsx",
+    "bytes": 4983,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240708215850.xlsx",
+    "bytes": 6728,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/task1101.xlsx",
+    "bytes": 7415,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/task240701.xlsx",
+    "bytes": 9044,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/task240702.xlsx",
+    "bytes": 9071,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/task240703.xlsx",
+    "bytes": 9058,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/task240704.xlsx",
+    "bytes": 9020,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/task240705.xlsx",
+    "bytes": 9030,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/task240706.xlsx",
+    "bytes": 9024,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/task240707.xlsx",
+    "bytes": 9017,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/task240708.xlsx",
+    "bytes": 9087,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240627094332/actual_weight.xlsx",
+    "bytes": 5467,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240627100626/actual_weight_{current_time}.xlsx",
+    "bytes": 5500,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240701231457/actual_weight_{current_time}.xlsx",
+    "bytes": 5473,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240702051547/actual_weight_{current_time}.xlsx",
+    "bytes": 10168,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240702062445/actual_weight_{current_time}.xlsx",
+    "bytes": 6997,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704052502/actual_weight_{current_time}.xlsx",
+    "bytes": 5448,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704052926/actual_weight_{current_time}.xlsx",
+    "bytes": 5399,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704153117/actual_weight_{current_time}.xlsx",
+    "bytes": 4984,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704194143/actual_weight_{current_time}.xlsx",
+    "bytes": 4983,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240704203300/actual_weight_{current_time}.xlsx",
+    "bytes": 4984,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240708165815/actual_weight_{current_time}.xlsx",
+    "bytes": 5471,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240709205927/actual_weight_{current_time}.xlsx",
+    "bytes": 5288,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240711234533/actual_weight_{current_time}.xlsx",
+    "bytes": 5468,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  },
+  {
+    "path": "solid_handling_station/task/20240712000257/actual_weight_{current_time}.xlsx",
+    "bytes": 5466,
+    "reason": "Historical task snapshot or measurement history; retained locally; manuscript relevance not established"
+  }
+]

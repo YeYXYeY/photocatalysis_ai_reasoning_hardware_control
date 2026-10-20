@@ -1,0 +1,30 @@
+{
+  "payload_files_verified": 267,
+  "commands": [
+    {
+      "command": "python main.py demo",
+      "exit_code": 0,
+      "seconds": 2.251
+    },
+    {
+      "command": "python main.py test",
+      "exit_code": 0,
+      "seconds": 9.64
+    },
+    {
+      "command": "python main.py check",
+      "exit_code": 0,
+      "seconds": 0.414
+    },
+    {
+      "command": "python -m ruff check .",
+      "exit_code": 0,
+      "seconds": 0.283
+    },
+    {
+      "command": "python -m ruff format --check .",
+      "exit_code": 0,
+      "seconds": 0.195
+    }
+  ]
+}

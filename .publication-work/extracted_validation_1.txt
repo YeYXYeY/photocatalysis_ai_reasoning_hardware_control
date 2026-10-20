@@ -1,0 +1,110 @@
+Running software-only tests: automatic-control-system
+['python', 'script.py']
+rack_name: bottle_rack_1, rack_value: rack_a
+rack_name: bottle_rack_2, rack_value: none
+Updated bottle rack rack_a position to ('mobile_station', 'bottle_rack_2').
+Updated chemical_remaining for station liquid_station.
+Running software-only tests: liquid-handling-workstation
+Running software-only tests: mobile_robot
+Running software-only tests: photocatalytic_reactor
+Running software-only tests: solid_handling_station
+Running software-only tests: .
+Elapsed: 9.53 seconds
+All software-only test suites passed.
+test_material_station_rack_four_route (test_replenishment.ReplenishmentPlanTests) ... ok
+test_mobile_station_rack_one_route (test_replenishment.ReplenishmentPlanTests) ... ok
+test_unsupported_route_raises_value_error (test_replenishment.ReplenishmentPlanTests) ... ok
+test_prepare_server_runtime_can_skip_task_directory (test_server_bootstrap.ServerBootstrapTests) ... ok
+test_prepare_server_runtime_creates_log_and_task_directories (test_server_bootstrap.ServerBootstrapTests) ... ok
+test_invalid_command_is_rejected (test_station_server.StationServerTests) ... ok
+test_invalid_function_name_is_rejected (test_station_server.StationServerTests) ... ok
+test_missing_task_file_is_rejected (test_station_server.StationServerTests) ... ok
+test_update_bottle_rack_pos_moves_rack_between_stations (test_station_status.StationStatusTests) ... ok
+test_update_generic_info_persists_to_yaml_file (test_station_status.StationStatusTests) ... ok
+test_accepts_predefined_pre_selection (test_task_selection.TaskSelectionTests) ... ok
+test_requires_exactly_one_step_in_manual_mode (test_task_selection.TaskSelectionTests) ... ok
+test_requires_loaded_file_before_starting (test_task_selection.TaskSelectionTests) ... ok
+test_returns_selected_step_name_in_manual_mode (test_task_selection.TaskSelectionTests) ... ok
+test_calc_liquid_consumption_sums_columns_and_adds_nmr_keys (test_task_utils.TaskUtilsTests) ... ok
+test_calc_solid_consumption_sums_non_identifier_columns (test_task_utils.TaskUtilsTests) ... ok
+test_split_task_returns_station_specific_frames (test_task_utils.TaskUtilsTests) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.289s
+
+OK
+test_build_timestamped_log_path_uses_directory_and_timestamp (test_config_utils.ConfigUtilsTests) ... ok
+test_config_logger_replaces_existing_handlers (test_config_utils.ConfigUtilsTests) ... ok
+test_load_config_reads_yaml_from_requested_path (test_config_utils.ConfigUtilsTests) ... ok
+test_build_coordinate_workbook_paths_lists_expected_assets (test_liquid_station_runtime.LiquidStationRuntimeTests) ... ok
+test_build_liquid_station_paths_uses_project_conventions (test_liquid_station_runtime.LiquidStationRuntimeTests) ... ok
+test_load_coordinate_tables_reads_every_known_workbook (test_liquid_station_runtime.LiquidStationRuntimeTests) ... ok
+test_import_does_not_load_the_vendor_library (test_vendor_loading.VendorLoadingTests) ... ok
+test_missing_vendor_library_has_an_actionable_error (test_vendor_loading.VendorLoadingTests) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.043s
+
+OK
+test_build_agv_urls_uses_supplied_host_and_port (test_devices.DeviceTests) ... ok
+test_build_run_script_command_formats_script_name (test_devices.DeviceTests) ... ok
+test_cr10_enable_robot_sends_expected_command (test_devices.DeviceTests) ... ok
+test_trans200_move_to_marker_sends_named_marker_payload (test_devices.DeviceTests) ... ok
+test_trans200_rejects_unknown_mode (test_devices.DeviceTests) ... ok
+test_trans200_run_mission_sends_named_mission_payload (test_devices.DeviceTests) ... ok
+test_parser_accepts_agv_move_command (test_main.MainCliTests) ... ok
+test_parser_accepts_robot_run_script_command (test_main.MainCliTests) ... ok
+test_parser_accepts_workflow_command (test_main.MainCliTests) ... ok
+test_photocatalysis_workflow_runs_expected_sequence (test_workflows.WorkflowTests) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.032s
+
+OK
+test_read_input_registers_builds_read_frame (test_digital_io_rs485.DigitalIoRs485Tests) ... ok
+test_write_multiple_coils_packs_bits_in_order (test_digital_io_rs485.DigitalIoRs485Tests) ... ok
+test_write_single_coil_builds_expected_modbus_frame (test_digital_io_rs485.DigitalIoRs485Tests) ... ok
+test_reorganized_packages_are_importable (test_project_structure_imports.ProjectStructureImportTests) ... ok
+test_root_directory_stays_free_of_legacy_driver_logs (test_project_structure_imports.ProjectStructureImportTests) ... ok
+test_clamp_cooling_output_applies_base_offset_and_bounds (test_reactor_logic.ReactorLogicTests) ... ok
+test_clamp_shaker_speed_limits_values_to_supported_range (test_reactor_logic.ReactorLogicTests) ... ok
+test_encode_shaker_speed_returns_two_byte_hex_string (test_reactor_logic.ReactorLogicTests) ... ok
+test_normalize_cooling_mode_accepts_supported_values (test_reactor_logic.ReactorLogicTests) ... ok
+test_normalize_cooling_mode_rejects_unsupported_values (test_reactor_logic.ReactorLogicTests) ... ok
+test_should_enter_reaction_phase_uses_tolerance_window (test_reactor_logic.ReactorLogicTests) ... ok
+test_send_instr_builds_crc_appended_frame (test_shaker_controller.ShakerControllerTests) ... ok
+test_to_hex_8_bytes_splits_position_into_high_and_low_words (test_shaker_controller.ShakerControllerTests) ... ok
+test_validate_task_command_accepts_supported_command (test_station_command_validation.StationCommandValidationTests) ... ok
+test_validate_task_command_rejects_invalid_function_name (test_station_command_validation.StationCommandValidationTests) ... ok
+test_validate_task_command_rejects_unknown_flag (test_station_command_validation.StationCommandValidationTests) ... ok
+test_validate_task_command_requires_main_entrypoint (test_station_command_validation.StationCommandValidationTests) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.002s
+
+OK
+test_all_calibration_calls_receive_alignment_position (test_control_logic.ControlLogicTests) ... ok
+test_calibration_persistence_and_inverse_prediction (test_control_logic.ControlLogicTests) ... ok
+test_import_does_not_open_serial_or_read_workbooks (test_control_logic.ControlLogicTests) ... ok
+test_modbus_crc_uses_little_endian_wire_order (test_control_logic.ControlLogicTests) ... ok
+test_nonpositive_target_is_rejected_before_motion (test_control_logic.ControlLogicTests) ... ok
+test_rejects_invalid_bottle_identifiers (test_tasks.TaskValidationTests) ... ok
+test_rejects_negative_nonfinite_and_nonnumeric_targets (test_tasks.TaskValidationTests) ... ok
+test_requires_positive_work_and_identifier_column (test_tasks.TaskValidationTests) ... ok
+test_skips_blank_and_zero_targets (test_tasks.TaskValidationTests) ... ok
+test_records_actual_mass_using_simulated_station (test_workflow.WorkflowTests) ... ok
+test_rejects_unknown_reagent_before_initialization (test_workflow.WorkflowTests) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 2.979s
+
+OK
+test_detects_embedded_credentials_and_invalid_python (test_archive_rules.ArchiveRuleTests) ... ok
+test_payload_excludes_local_state_and_keeps_example_inputs (test_archive_rules.ArchiveRuleTests) ... ok
+test_real_splitter_matches_published_fixture (test_demo.DemoTests) ... ok
+test_all_station_help_commands_work_without_hardware (test_entrypoints.EntrypointTests) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 2.934s
+
+OK
