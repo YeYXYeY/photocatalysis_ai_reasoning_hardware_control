@@ -36,3 +36,4 @@ task/
 
 # Local notebook and cache noise
 .ipynb_checkpoints/
+publication_release/
