@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-*.pyo
-*.log
-.pytest_cache/
-.mypy_cache/
-
-logs/
-task/

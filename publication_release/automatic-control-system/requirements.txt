@@ -1,2 +1,0 @@
-# Install from this directory; versions are maintained at the repository root.
--r ../requirements.txt
