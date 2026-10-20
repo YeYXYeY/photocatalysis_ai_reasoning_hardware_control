@@ -1,109 +1,42 @@
-# Reproduce a Representative Sample Run
+# Reproduction and validation
 
-This document describes a conservative, paper-oriented way to inspect or replay the retained workflow structure without assuming a full lab deployment.
+## 1. Run the software-only demonstration
 
-## Goal
+From the release root:
 
-The objective is to help a reader understand how the control hub, liquid workstation, mobile robot, and reactor modules fit together in practice.
-
-This is not a guarantee that the full physical workflow can be reproduced on a new machine without local lab configuration and hardware access.
-
-## Reproduction Levels
-
-Choose one of the following levels depending on your access:
-
-### Level 1: Static inspection
-
-Use this if you only want to understand the pipeline for paper review.
-
-Steps:
-
-1. Read [`README.md`](./README.md).
-2. Read [`SYSTEM_ARCHITECTURE.md`](./SYSTEM_ARCHITECTURE.md).
-3. Inspect `automatic-control-system/workflow/run_sample_workflow.py`.
-4. Inspect sample task/status files under:
-   - `automatic-control-system/task/`
-   - `automatic-control-system/station_status/`
-   - `liquid-handling-workstation/task/`
-   - `liquid-handling-workstation/coordinates/`
-
-Outcome:
-
-- you understand the intended workflow decomposition and station responsibilities
-
-### Level 2: Software-only validation
-
-Use this if you want to validate retained Python logic without attaching real hardware.
-
-Suggested steps:
-
-1. Create a virtual environment and install the relevant module dependencies.
-2. Run available tests in each module that has test coverage.
-3. Review failing tests carefully to determine whether they require hardware or environment-specific setup.
-
-Example commands:
-
-```bash
-python -m pytest automatic-control-system/tests
-python -m pytest liquid-handling-workstation/tests
-python -m pytest mobile_robot/tests
-python -m pytest photocatalytic_reactor/tests
+```powershell
+python main.py demo
+python main.py demo --output outputs/demo.json
 ```
 
-Outcome:
+The supplied `examples/demo_task.json` is a synthetic two-bottle illustration, not experimental evidence. The demo writes a temporary Excel input, runs the hub's real `split_task`, `calculate_liquid_consumption`, and `calculate_solid_consumption` functions, and compares its complete summary with `examples/expected_demo_output.json`.
 
-- you can verify which parts of the retained code remain executable in a software-only environment
+Expected totals: A1 = 250 uL, B1 = 75 uL, F1 = 2.5 mg, I1 = 5 mg; two liquid and two solid task rows; zero hardware commands. Missing reagent columns are filled with zero for this illustration, and all-zero station rows are excluded. The example's volume convention is uL; historical operational workbook units require author confirmation.
 
-### Level 3: Lab-attached demonstration
+## 2. Run isolated regression tests
 
-Use this only if you have the real hardware, correct wiring, and validated local configuration.
+```powershell
+python main.py test
+```
 
-Suggested order:
+Each station and the root tests run in a fresh Python process because station-local package names overlap. Tests cover existing task/inventory/status logic, communications and control frame construction, reactor logic, mobile workflow ordering, solid input validation and mock dispensing, calibration persistence, vendor lazy loading, CLI help, and release rules. They do not communicate with physical devices.
 
-1. Validate all host/port and serial configuration files.
-2. Start the individual station servers or module runtimes.
-3. Start the control hub.
-4. Load a representative task workbook.
-5. Observe status transitions, inventory checks, and inter-station command flow.
+For one station, enter that station directory and run `python -m unittest discover -s tests -v`. Do not use a single recursive discovery command across all station folders: it can mix unrelated local packages. The `solid_handling_station/test/` exploratory scripts from the original were not included; the maintained suite is `solid_handling_station/tests/`.
 
-Outcome:
+## 3. Audit and package
 
-- you can demonstrate the intended multi-station workflow on a configured platform
+```powershell
+python main.py check
+python -m ruff check .
+python main.py package
+```
 
-## Representative Files for Understanding the Workflow
+The audit checks Python syntax, release filenames, Chinese text in sources and XLSX XML, personal absolute paths, potential literal credentials, and disallowed binary/runtime artifacts. It is an automated pattern check, not proof that every possible secret or dependency defect has been found.
 
-The following retained files are especially useful as anchors:
+The ZIP excludes local/generated files and contains file hashes. Verify `MANIFEST.sha256` against the extracted files and compare the outer ZIP hash with the accompanying `.zip.sha256` file. Validation details and measured timings are in `docs/VALIDATION_REPORT.md`.
 
-- `automatic-control-system/workflow/run_sample_workflow.py`
-- `automatic-control-system/task/0923task.xlsx`
-- `automatic-control-system/station_status/station_status.yaml`
-- `automatic-control-system/station_status/initial_status.yaml`
-- `liquid-handling-workstation/main.py`
-- `mobile_robot/main.py`
-- `photocatalytic_reactor/main.py`
+## 4. Hardware reproduction boundary
 
-## What a Reader Should Expect
+Only execute hardware commands after site setup and integration validation. Station entrypoints operate real equipment. Use each station's `--help` first; those help paths are tested without hardware.
 
-In the retained workflow structure:
-
-1. A task spreadsheet is chosen as the input.
-2. The control hub interprets and splits that task.
-3. Station-specific execution paths are selected.
-4. Status/inventory checks gate further actions.
-5. Hardware-facing stations perform local execution using their own drivers and configuration.
-
-## Reproducibility Caveats
-
-- The published snapshot keeps only a reduced subset of task examples and removes runtime/editor/cache directories from the release-oriented repository layout.
-- Some retained configuration values are placeholders, some are local examples, and some may be stale relative to the original live system.
-- Real reproducibility depends on hardware, calibration, coordinates, network topology, and lab SOPs that are outside the scope of this code snapshot.
-
-## Recommended Companion Materials
-
-If this repository is released with a paper, the following additions would further improve reproducibility:
-
-- a task workbook schema explanation
-- an inventory/status file schema explanation
-- a hardware BOM and communication map
-- an operation order / startup checklist
-- a note separating sample data from live operational data
+No manuscript or supporting figure dataset was supplied. This package cannot certify reproduction of published results. A fully integrated physical run additionally requires the items and command adapters listed in `docs/HARDWARE.md`, calibrated coordinates and interlocks, material identities and quantities, robot/AGV assets, firmware versions, and an author-maintained experimental protocol.

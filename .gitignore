@@ -1,39 +1,37 @@
-# Python-generated files
-__pycache__/
-*.py[oc]
-*.pyd
-*.so
-build/
-dist/
-wheels/
-*.egg-info
-
-# Virtual environments
-.venv
+# Local environments, secrets, and caches
+.venv/
+venv/
 .env
 .env.*
-venv/
-
-# Test and coverage outputs
+__pycache__/
+*.py[cod]
 .pytest_cache/
+.ruff_cache/
 .coverage
 htmlcov/
-
-# Editor and OS files
+# Generated build and execution outputs
+dist/
+build/
+*.egg-info/
+logs/
+log/
+*.log
+task/
+tasks/
+model/
+outputs/
+*.pkl
+# Vendor runtime binaries are installed separately
+*.dll
+*.so
+*.dylib
+# Local editor and planning state
 .vscode/
 .idea/
 Thumbs.db
 Desktop.ini
-
-# Logs and runtime artifacts
-*.log
-logs/
-log/
-
-# task files
-tasks/
-task/
-
-# Local notebook and cache noise
-.ipynb_checkpoints/
-publication_release/
+task_plan.md
+findings.md
+progress.md
+.publication-work/
+# Representative tasks under examples/operational_tasks/ remain tracked.
